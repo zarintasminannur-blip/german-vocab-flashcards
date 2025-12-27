@@ -1,14 +1,50 @@
 [
     {
+        "category": "Furniture",
         "article": "der",
-        "word": "stift",
-        "meaning": "pen/pencil"
+        "singular": "Tisch",
+        "plural": "Tische",
+        "meaning": "The table",
+        "sentence": "Der Tisch ist aus Holz."
     },
     {
+        "category": "Furniture",
         "article": "der",
-        "singular": "mann",
-        "plural": "die mann",
-        "meaning": "man",
-        "sentence": "der mann isst gross"
+        "singular": "Stuhl",
+        "plural": "Stühle",
+        "meaning": "The chair",
+        "sentence": "Der Stuhl ist bequem."
+    },
+    {
+        "category": "Animals",
+        "article": "die",
+        "singular": "Katze",
+        "plural": "Katzen",
+        "meaning": "The cat",
+        "sentence": "Die Katze schläft."
+    },
+    {
+        "category": "Animals",
+        "article": "der",
+        "singular": "Hund",
+        "plural": "Hunde",
+        "meaning": "The dog",
+        "sentence": "Der Hund bellt."
+    },
+    {
+        "category": "Food",
+        "article": "der",
+        "singular": "Apfel",
+        "plural": "Äpfel",
+        "meaning": "The apple",
+        "sentence": "Der Apfel ist rot."
+    },
+    {
+        "category": "Food",
+        "article": "das",
+        "singular": "Brot",
+        "plural": "Brote",
+        "meaning": "The bread",
+        "sentence": "Das Brot ist frisch."
     }
 ]

@@ -146,7 +146,7 @@ class FlashcardApp:
         if sentence:
             details += f"\n\n\"{sentence}\""
 
-        self.canvas.itemconfig(self.title_text, text="English", fill="black")
+        self.canvas.itemconfig(self.title_text, text="Answer", fill="black")
         self.canvas.itemconfig(self.word_text, text=full, fill="black")
         self.canvas.itemconfig(self.details_text, text=details, fill="black")
 

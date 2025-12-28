@@ -22,7 +22,6 @@ class FlashcardApp:
         self.full_vocab_list = self.load_data()
         
         # 2. Get Unique Categories for Dropdown
-        # We start with "All", then find every unique category in the JSON file
         self.categories = ["All"] + sorted(list(set(w.get("category", "General") for w in self.full_vocab_list)))
         
         # 3. Setup Logic
@@ -38,7 +37,6 @@ class FlashcardApp:
         self.word_text = self.canvas.create_text(400, 263, text="Word", font=("Arial", 60, "bold"))
         self.details_text = self.canvas.create_text(400, 400, text="", font=("Arial", 20))
         
-        # Span across 6 rows to cover all buttons
         self.canvas.grid(row=0, column=0, rowspan=6, padx=20)
 
         # SIDEBAR (Right - Column 1)
@@ -125,6 +123,7 @@ class FlashcardApp:
         singular = self.current_card.get('singular', '')
         plural = self.current_card.get('plural', '')
         meaning = self.current_card.get('meaning', '')
+        sentence = self.current_card.get('sentence', '') # Added!
         
         bg_color = COLOR_VERB
         if article == "der": bg_color = COLOR_MASC
@@ -136,8 +135,16 @@ class FlashcardApp:
         self.count_label.config(bg=bg_color)
 
         full = f"{article} {singular}" if article else singular
-        details = f"Meaning: {meaning}"
-        if plural: details = f"Plural: die {plural}\n" + details
+        
+        # Logic to stack Plural -> Meaning -> Sentence
+        details = ""
+        if plural: 
+            details += f"Plural: die {plural}\n"
+        
+        details += f"Meaning: {meaning}"
+        
+        if sentence:
+            details += f"\n\n\"{sentence}\""
 
         self.canvas.itemconfig(self.title_text, text="English", fill="black")
         self.canvas.itemconfig(self.word_text, text=full, fill="black")

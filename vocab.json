@@ -1,50 +1,3210 @@
 [
     {
-        "category": "Furniture",
-        "article": "der",
-        "singular": "Tisch",
-        "plural": "Tische",
-        "meaning": "The table",
-        "sentence": "Der Tisch ist aus Holz."
+        "category": "Verbs",
+        "article": "",
+        "singular": "sein",
+        "plural": "",
+        "meaning": "to be",
+        "sentence": "Ich bin glücklich."
     },
     {
-        "category": "Furniture",
-        "article": "der",
-        "singular": "Stuhl",
-        "plural": "Stühle",
-        "meaning": "The chair",
-        "sentence": "Der Stuhl ist bequem."
+        "category": "Verbs",
+        "article": "",
+        "singular": "haben",
+        "plural": "",
+        "meaning": "to have",
+        "sentence": "Wir haben ein Haus."
     },
     {
-        "category": "Animals",
+        "category": "Verbs",
+        "article": "",
+        "singular": "werden",
+        "plural": "",
+        "meaning": "to become",
+        "sentence": "Es wird kalt."
+    },
+    {
+        "category": "Verbs",
+        "article": "",
+        "singular": "sagen",
+        "plural": "",
+        "meaning": "to say",
+        "sentence": "Sag mir die Wahrheit."
+    },
+    {
+        "category": "Verbs",
+        "article": "",
+        "singular": "machen",
+        "plural": "",
+        "meaning": "to do / make",
+        "sentence": "Was machst du?"
+    },
+    {
+        "category": "Verbs",
+        "article": "",
+        "singular": "geben",
+        "plural": "",
+        "meaning": "to give",
+        "sentence": "Gib mir bitte das Buch."
+    },
+    {
+        "category": "Verbs",
+        "article": "",
+        "singular": "kommen",
+        "plural": "",
+        "meaning": "to come",
+        "sentence": "Der Bus kommt gleich."
+    },
+    {
+        "category": "Verbs",
+        "article": "",
+        "singular": "gehen",
+        "plural": "",
+        "meaning": "to go / walk",
+        "sentence": "Ich gehe zur Schule."
+    },
+    {
+        "category": "Verbs",
+        "article": "",
+        "singular": "wissen",
+        "plural": "",
+        "meaning": "to know (fact)",
+        "sentence": "Ich weiß es nicht."
+    },
+    {
+        "category": "Verbs",
+        "article": "",
+        "singular": "sehen",
+        "plural": "",
+        "meaning": "to see",
+        "sentence": "Ich sehe den Mond."
+    },
+    {
+        "category": "Verbs",
+        "article": "",
+        "singular": "lassen",
+        "plural": "",
+        "meaning": "to let / allow",
+        "sentence": "Lass das sein."
+    },
+    {
+        "category": "Verbs",
+        "article": "",
+        "singular": "stehen",
+        "plural": "",
+        "meaning": "to stand",
+        "sentence": "Er steht vor der Tür."
+    },
+    {
+        "category": "Verbs",
+        "article": "",
+        "singular": "finden",
+        "plural": "",
+        "meaning": "to find",
+        "sentence": "Ich finde meinen Schlüssel nicht."
+    },
+    {
+        "category": "Verbs",
+        "article": "",
+        "singular": "bleiben",
+        "plural": "",
+        "meaning": "to stay",
+        "sentence": "Wir bleiben zu Hause."
+    },
+    {
+        "category": "Verbs",
+        "article": "",
+        "singular": "liegen",
+        "plural": "",
+        "meaning": "to lie (position)",
+        "sentence": "Das Buch liegt auf dem Tisch."
+    },
+    {
+        "category": "Verbs",
+        "article": "",
+        "singular": "heißen",
+        "plural": "",
+        "meaning": "to be called",
+        "sentence": "Wie heißt du?"
+    },
+    {
+        "category": "Verbs",
+        "article": "",
+        "singular": "denken",
+        "plural": "",
+        "meaning": "to think",
+        "sentence": "Ich denke oft an dich."
+    },
+    {
+        "category": "Verbs",
+        "article": "",
+        "singular": "nehmen",
+        "plural": "",
+        "meaning": "to take",
+        "sentence": "Nimmst du Zucker?"
+    },
+    {
+        "category": "Verbs",
+        "article": "",
+        "singular": "tun",
+        "plural": "",
+        "meaning": "to do",
+        "sentence": "Ich habe viel zu tun."
+    },
+    {
+        "category": "Verbs",
+        "article": "",
+        "singular": "glauben",
+        "plural": "",
+        "meaning": "to believe",
+        "sentence": "Ich glaube dir."
+    },
+    {
+        "category": "Verbs",
+        "article": "",
+        "singular": "halten",
+        "plural": "",
+        "meaning": "to stop / hold",
+        "sentence": "Der Zug hält hier nicht."
+    },
+    {
+        "category": "Verbs",
+        "article": "",
+        "singular": "nennen",
+        "plural": "",
+        "meaning": "to name",
+        "sentence": "Man nennt ihn den Chef."
+    },
+    {
+        "category": "Verbs",
+        "article": "",
+        "singular": "mögen",
+        "plural": "",
+        "meaning": "to like",
+        "sentence": "Ich mag Schokolade."
+    },
+    {
+        "category": "Verbs",
+        "article": "",
+        "singular": "zeigen",
+        "plural": "",
+        "meaning": "to show",
+        "sentence": "Zeig mir deine Hausaufgaben."
+    },
+    {
+        "category": "Verbs",
+        "article": "",
+        "singular": "führen",
+        "plural": "",
+        "meaning": "to lead",
+        "sentence": "Wohin führt dieser Weg?"
+    },
+    {
+        "category": "Verbs",
+        "article": "",
+        "singular": "sprechen",
+        "plural": "",
+        "meaning": "to speak",
+        "sentence": "Sprichst du Deutsch?"
+    },
+    {
+        "category": "Verbs",
+        "article": "",
+        "singular": "bringen",
+        "plural": "",
+        "meaning": "to bring",
+        "sentence": "Bring mir bitte Wasser."
+    },
+    {
+        "category": "Verbs",
+        "article": "",
+        "singular": "leben",
+        "plural": "",
+        "meaning": "to live",
+        "sentence": "Sie lebt in Berlin."
+    },
+    {
+        "category": "Verbs",
+        "article": "",
+        "singular": "fahren",
+        "plural": "",
+        "meaning": "to drive / ride",
+        "sentence": "Wir fahren nach München."
+    },
+    {
+        "category": "Verbs",
+        "article": "",
+        "singular": "meinen",
+        "plural": "",
+        "meaning": "to mean / opine",
+        "sentence": "Was meinst du damit?"
+    },
+    {
+        "category": "Verbs",
+        "article": "",
+        "singular": "fragen",
+        "plural": "",
+        "meaning": "to ask",
+        "sentence": "Darf ich etwas fragen?"
+    },
+    {
+        "category": "Verbs",
+        "article": "",
+        "singular": "kennen",
+        "plural": "",
+        "meaning": "to know (person)",
+        "sentence": "Kennst du ihn?"
+    },
+    {
+        "category": "Verbs",
+        "article": "",
+        "singular": "gelten",
+        "plural": "",
+        "meaning": "to be valid",
+        "sentence": "Das Angebot gilt nur heute."
+    },
+    {
+        "category": "Verbs",
+        "article": "",
+        "singular": "stellen",
+        "plural": "",
+        "meaning": "to place / put",
+        "sentence": "Stell die Vase auf den Tisch."
+    },
+    {
+        "category": "Verbs",
+        "article": "",
+        "singular": "spielen",
+        "plural": "",
+        "meaning": "to play",
+        "sentence": "Die Kinder spielen draußen."
+    },
+    {
+        "category": "Verbs",
+        "article": "",
+        "singular": "arbeiten",
+        "plural": "",
+        "meaning": "to work",
+        "sentence": "Er arbeitet viel."
+    },
+    {
+        "category": "Verbs",
+        "article": "",
+        "singular": "brauchen",
+        "plural": "",
+        "meaning": "to need",
+        "sentence": "Ich brauche Hilfe."
+    },
+    {
+        "category": "Verbs",
+        "article": "",
+        "singular": "folgen",
+        "plural": "",
+        "meaning": "to follow",
+        "sentence": "Folgen Sie mir unauffällig."
+    },
+    {
+        "category": "Verbs",
+        "article": "",
+        "singular": "lernen",
+        "plural": "",
+        "meaning": "to learn",
+        "sentence": "Wir lernen Deutsch."
+    },
+    {
+        "category": "Verbs",
+        "article": "",
+        "singular": "bestehen",
+        "plural": "",
+        "meaning": "to exist / pass exam",
+        "sentence": "Er hat die Prüfung bestanden."
+    },
+    {
+        "category": "Verbs",
+        "article": "",
+        "singular": "verstehen",
+        "plural": "",
+        "meaning": "to understand",
+        "sentence": "Ich verstehe dich nicht."
+    },
+    {
+        "category": "Verbs",
+        "article": "",
+        "singular": "setzen",
+        "plural": "",
+        "meaning": "to set / sit down",
+        "sentence": "Setzen Sie sich bitte."
+    },
+    {
+        "category": "Verbs",
+        "article": "",
+        "singular": "bekommen",
+        "plural": "",
+        "meaning": "to get / receive",
+        "sentence": "Ich habe ein Geschenk bekommen."
+    },
+    {
+        "category": "Verbs",
+        "article": "",
+        "singular": "beginnen",
+        "plural": "",
+        "meaning": "to begin",
+        "sentence": "Das Spiel beginnt jetzt."
+    },
+    {
+        "category": "Verbs",
+        "article": "",
+        "singular": "erzählen",
+        "plural": "",
+        "meaning": "to tell",
+        "sentence": "Erzähl mir einen Witz."
+    },
+    {
+        "category": "Verbs",
+        "article": "",
+        "singular": "versuchen",
+        "plural": "",
+        "meaning": "to try",
+        "sentence": "Ich versuche es noch einmal."
+    },
+    {
+        "category": "Verbs",
+        "article": "",
+        "singular": "schreiben",
+        "plural": "",
+        "meaning": "to write",
+        "sentence": "Er schreibt ein Buch."
+    },
+    {
+        "category": "Verbs",
+        "article": "",
+        "singular": "laufen",
+        "plural": "",
+        "meaning": "to run / walk",
+        "sentence": "Wir laufen durch den Park."
+    },
+    {
+        "category": "Verbs",
+        "article": "",
+        "singular": "erklären",
+        "plural": "",
+        "meaning": "to explain",
+        "sentence": "Kannst du das erklären?"
+    },
+    {
+        "category": "Verbs",
+        "article": "",
+        "singular": "entschuldigen",
+        "plural": "",
+        "meaning": "to apologize / excuse",
+        "sentence": "Entschuldigen Sie bitte."
+    },
+    {
+        "category": "Adjectives",
+        "article": "",
+        "singular": "ganz",
+        "plural": "",
+        "meaning": "whole / quite",
+        "sentence": "Die ganze Welt schaut zu."
+    },
+    {
+        "category": "Adjectives",
+        "article": "",
+        "singular": "groß",
+        "plural": "",
+        "meaning": "big / tall",
+        "sentence": "Berlin ist groß."
+    },
+    {
+        "category": "Adjectives",
+        "article": "",
+        "singular": "gut",
+        "plural": "",
+        "meaning": "good",
+        "sentence": "Das ist eine gute Idee."
+    },
+    {
+        "category": "Adjectives",
+        "article": "",
+        "singular": "neu",
+        "plural": "",
+        "meaning": "new",
+        "sentence": "Ich habe ein neues Handy."
+    },
+    {
+        "category": "Adjectives",
+        "article": "",
+        "singular": "erste",
+        "plural": "",
+        "meaning": "first",
+        "sentence": "Das ist mein erstes Mal."
+    },
+    {
+        "category": "Adjectives",
+        "article": "",
+        "singular": "lang",
+        "plural": "",
+        "meaning": "long",
+        "sentence": "Der Weg ist lang."
+    },
+    {
+        "category": "Adjectives",
+        "article": "",
+        "singular": "klein",
+        "plural": "",
+        "meaning": "small",
+        "sentence": "Die Maus ist klein."
+    },
+    {
+        "category": "Adjectives",
+        "article": "",
+        "singular": "alt",
+        "plural": "",
+        "meaning": "old",
+        "sentence": "Wie alt bist du?"
+    },
+    {
+        "category": "Adjectives",
+        "article": "",
+        "singular": "hoch",
+        "plural": "",
+        "meaning": "high",
+        "sentence": "Das Gebäude ist hoch."
+    },
+    {
+        "category": "Adjectives",
+        "article": "",
+        "singular": "einfach",
+        "plural": "",
+        "meaning": "simple / easy",
+        "sentence": "Die Lösung ist einfach."
+    },
+    {
+        "category": "Adjectives",
+        "article": "",
+        "singular": "letzte",
+        "plural": "",
+        "meaning": "last",
+        "sentence": "Das ist die letzte Chance."
+    },
+    {
+        "category": "Adjectives",
+        "article": "",
+        "singular": "gleich",
+        "plural": "",
+        "meaning": "same / equal",
+        "sentence": "Das ist mir gleich."
+    },
+    {
+        "category": "Adjectives",
+        "article": "",
+        "singular": "möglich",
+        "plural": "",
+        "meaning": "possible",
+        "sentence": "Ist das möglich?"
+    },
+    {
+        "category": "Adjectives",
+        "article": "",
+        "singular": "eigen",
+        "plural": "",
+        "meaning": "own",
+        "sentence": "Ich habe mein eigenes Zimmer."
+    },
+    {
+        "category": "Adjectives",
+        "article": "",
+        "singular": "schön",
+        "plural": "",
+        "meaning": "beautiful",
+        "sentence": "Das Wetter ist schön."
+    },
+    {
+        "category": "Adjectives",
+        "article": "",
+        "singular": "spät",
+        "plural": "",
+        "meaning": "late",
+        "sentence": "Es ist schon spät."
+    },
+    {
+        "category": "Adjectives",
+        "article": "",
+        "singular": "wichtig",
+        "plural": "",
+        "meaning": "important",
+        "sentence": "Das ist sehr wichtig."
+    },
+    {
+        "category": "Adjectives",
+        "article": "",
+        "singular": "weitere",
+        "plural": "",
+        "meaning": "further / additional",
+        "sentence": "Hast du weitere Fragen?"
+    },
+    {
+        "category": "Adjectives",
+        "article": "",
+        "singular": "genau",
+        "plural": "",
+        "meaning": "exact",
+        "sentence": "Es ist genau 8 Uhr."
+    },
+    {
+        "category": "Adjectives",
+        "article": "",
+        "singular": "jung",
+        "plural": "",
+        "meaning": "young",
+        "sentence": "Er ist noch sehr jung."
+    },
+    {
+        "category": "Adjectives",
+        "article": "",
+        "singular": "kurz",
+        "plural": "",
+        "meaning": "short",
+        "sentence": "Mach es bitte kurz."
+    },
+    {
+        "category": "Adjectives",
+        "article": "",
+        "singular": "stark",
+        "plural": "",
+        "meaning": "strong",
+        "sentence": "Ich bin stark."
+    },
+    {
+        "category": "Adjectives",
+        "article": "",
+        "singular": "richtig",
+        "plural": "",
+        "meaning": "correct",
+        "sentence": "Die Antwort ist richtig."
+    },
+    {
+        "category": "Adjectives",
+        "article": "",
+        "singular": "verschieden",
+        "plural": "",
+        "meaning": "different",
+        "sentence": "Wir haben verschiedene Hobbys."
+    },
+    {
+        "category": "Adjectives",
+        "article": "",
+        "singular": "bestimmte",
+        "plural": "",
+        "meaning": "certain / specific",
+        "sentence": "Ich suche ein bestimmtes Buch."
+    },
+    {
+        "category": "Adjectives",
+        "article": "",
+        "singular": "besser",
+        "plural": "",
+        "meaning": "better",
+        "sentence": "Dieser Weg ist besser."
+    },
+    {
+        "category": "Adjectives",
+        "article": "",
+        "singular": "schnell",
+        "plural": "",
+        "meaning": "fast",
+        "sentence": "Er läuft schnell."
+    },
+    {
+        "category": "Adjectives",
+        "article": "",
+        "singular": "schwer",
+        "plural": "",
+        "meaning": "heavy / difficult",
+        "sentence": "Der Koffer ist schwer."
+    },
+    {
+        "category": "Adjectives",
+        "article": "",
+        "singular": "allein",
+        "plural": "",
+        "meaning": "alone",
+        "sentence": "Ich bin allein zu Hause."
+    },
+    {
+        "category": "Adjectives",
+        "article": "",
+        "singular": "nah",
+        "plural": "",
+        "meaning": "near",
+        "sentence": "Der Supermarkt ist nah."
+    },
+    {
+        "category": "Adjectives",
+        "article": "",
+        "singular": "politisch",
+        "plural": "",
+        "meaning": "political",
+        "sentence": "Das ist ein politisches Thema."
+    },
+    {
+        "category": "Adjectives",
+        "article": "",
+        "singular": "klar",
+        "plural": "",
+        "meaning": "clear",
+        "sentence": "Das Wasser ist klar."
+    },
+    {
+        "category": "Adjectives",
+        "article": "",
+        "singular": "einzeln",
+        "plural": "",
+        "meaning": "individual / single",
+        "sentence": "Jeder einzelne zählt."
+    },
+    {
+        "category": "Adjectives",
+        "article": "",
+        "singular": "bekannt",
+        "plural": "",
+        "meaning": "well-known",
+        "sentence": "Er ist ein bekannter Schauspieler."
+    },
+    {
+        "category": "Adjectives",
+        "article": "",
+        "singular": "leicht",
+        "plural": "",
+        "meaning": "light / easy",
+        "sentence": "Die Aufgabe war leicht."
+    },
+    {
+        "category": "Adjectives",
+        "article": "",
+        "singular": "rund",
+        "plural": "",
+        "meaning": "round",
+        "sentence": "Der Ball ist rund."
+    },
+    {
+        "category": "Adjectives",
+        "article": "",
+        "singular": "frei",
+        "plural": "",
+        "meaning": "free",
+        "sentence": "Der Platz ist frei."
+    },
+    {
+        "category": "Adjectives",
+        "article": "",
+        "singular": "früh",
+        "plural": "",
+        "meaning": "early",
+        "sentence": "Ich stehe früh auf."
+    },
+    {
+        "category": "Adjectives",
+        "article": "",
+        "singular": "offen",
+        "plural": "",
+        "meaning": "open",
+        "sentence": "Das Fenster ist offen."
+    },
+    {
+        "category": "Basics",
+        "article": "",
+        "singular": "ja",
+        "plural": "",
+        "meaning": "yes",
+        "sentence": "Ja, bitte."
+    },
+    {
+        "category": "Basics",
+        "article": "",
+        "singular": "nein",
+        "plural": "",
+        "meaning": "no",
+        "sentence": "Nein, danke."
+    },
+    {
+        "category": "Basics",
+        "article": "",
+        "singular": "danke",
+        "plural": "",
+        "meaning": "thank you",
+        "sentence": "Danke schön!"
+    },
+    {
+        "category": "Basics",
+        "article": "",
+        "singular": "bitte",
+        "plural": "",
+        "meaning": "please / you're welcome",
+        "sentence": "Ein Wasser, bitte."
+    },
+    {
+        "category": "Basics",
+        "article": "",
+        "singular": "hallo",
+        "plural": "",
+        "meaning": "hello",
+        "sentence": "Hallo, wie geht es dir?"
+    },
+    {
+        "category": "Basics",
+        "article": "",
+        "singular": "tschüss",
+        "plural": "",
+        "meaning": "bye",
+        "sentence": "Tschüss, bis morgen!"
+    },
+    {
+        "category": "Basics",
+        "article": "",
+        "singular": "vielleicht",
+        "plural": "",
+        "meaning": "maybe",
+        "sentence": "Vielleicht komme ich später."
+    },
+    {
+        "category": "Basics",
+        "article": "",
+        "singular": "heute",
+        "plural": "",
+        "meaning": "today",
+        "sentence": "Heute ist Montag."
+    },
+    {
+        "category": "Basics",
+        "article": "",
+        "singular": "morgen",
+        "plural": "",
+        "meaning": "tomorrow",
+        "sentence": "Morgen habe ich frei."
+    },
+    {
+        "category": "Basics",
+        "article": "",
+        "singular": "gestern",
+        "plural": "",
+        "meaning": "yesterday",
+        "sentence": "Gestern war ich krank."
+    },
+    {
+        "category": "Basics",
+        "article": "",
+        "singular": "jetzt",
+        "plural": "",
+        "meaning": "now",
+        "sentence": "Ich muss jetzt gehen."
+    },
+    {
+        "category": "Family",
         "article": "die",
-        "singular": "Katze",
-        "plural": "Katzen",
-        "meaning": "The cat",
-        "sentence": "Die Katze schläft."
+        "singular": "Familie",
+        "plural": "Familien",
+        "meaning": "Family",
+        "sentence": "Meine Familie ist groß."
     },
     {
-        "category": "Animals",
+        "category": "Family",
         "article": "der",
-        "singular": "Hund",
-        "plural": "Hunde",
-        "meaning": "The dog",
-        "sentence": "Der Hund bellt."
+        "singular": "Vater",
+        "plural": "Väter",
+        "meaning": "Father",
+        "sentence": "Mein Vater arbeitet bei Siemens."
     },
     {
-        "category": "Food",
+        "category": "Family",
+        "article": "die",
+        "singular": "Mutter",
+        "plural": "Mütter",
+        "meaning": "Mother",
+        "sentence": "Meine Mutter kocht gut."
+    },
+    {
+        "category": "Family",
         "article": "der",
-        "singular": "Apfel",
-        "plural": "Äpfel",
-        "meaning": "The apple",
-        "sentence": "Der Apfel ist rot."
+        "singular": "Sohn",
+        "plural": "Söhne",
+        "meaning": "Son",
+        "sentence": "Sein Sohn spielt Fußball."
+    },
+    {
+        "category": "Family",
+        "article": "die",
+        "singular": "Tochter",
+        "plural": "Töchter",
+        "meaning": "Daughter",
+        "sentence": "Ihre Tochter geht zur Schule."
+    },
+    {
+        "category": "Family",
+        "article": "der",
+        "singular": "Bruder",
+        "plural": "Brüder",
+        "meaning": "Brother",
+        "sentence": "Ich habe einen Bruder."
+    },
+    {
+        "category": "Family",
+        "article": "die",
+        "singular": "Schwester",
+        "plural": "Schwestern",
+        "meaning": "Sister",
+        "sentence": "Meine Schwester ist älter als ich."
+    },
+    {
+        "category": "Family",
+        "article": "das",
+        "singular": "Kind",
+        "plural": "Kinder",
+        "meaning": "Child",
+        "sentence": "Das Kind spielt im Garten."
+    },
+    {
+        "category": "Family",
+        "article": "das",
+        "singular": "Baby",
+        "plural": "Babys",
+        "meaning": "Baby",
+        "sentence": "Das Baby schläft."
+    },
+    {
+        "category": "Family",
+        "article": "die",
+        "singular": "Eltern",
+        "plural": "",
+        "meaning": "Parents",
+        "sentence": "Meine Eltern wohnen in Hamburg."
+    },
+    {
+        "category": "Family",
+        "article": "die",
+        "singular": "Großmutter",
+        "plural": "Großmütter",
+        "meaning": "Grandmother",
+        "sentence": "Meine Großmutter backt Kuchen."
+    },
+    {
+        "category": "Family",
+        "article": "der",
+        "singular": "Großvater",
+        "plural": "Großväter",
+        "meaning": "Grandfather",
+        "sentence": "Mein Großvater erzählt Geschichten."
     },
     {
         "category": "Food",
         "article": "das",
         "singular": "Brot",
         "plural": "Brote",
-        "meaning": "The bread",
+        "meaning": "Bread",
         "sentence": "Das Brot ist frisch."
+    },
+    {
+        "category": "Food",
+        "article": "das",
+        "singular": "Wasser",
+        "plural": "",
+        "meaning": "Water",
+        "sentence": "Ich trinke ein Glas Wasser."
+    },
+    {
+        "category": "Food",
+        "article": "der",
+        "singular": "Kaffee",
+        "plural": "",
+        "meaning": "Coffee",
+        "sentence": "Der Kaffee ist heiß."
+    },
+    {
+        "category": "Food",
+        "article": "der",
+        "singular": "Tee",
+        "plural": "Tees",
+        "meaning": "Tea",
+        "sentence": "Ich mag grünen Tee."
+    },
+    {
+        "category": "Food",
+        "article": "das",
+        "singular": "Bier",
+        "plural": "Biere",
+        "meaning": "Beer",
+        "sentence": "Deutsches Bier ist berühmt."
+    },
+    {
+        "category": "Food",
+        "article": "der",
+        "singular": "Wein",
+        "plural": "Weine",
+        "meaning": "Wine",
+        "sentence": "Ein Glas Rotwein, bitte."
+    },
+    {
+        "category": "Food",
+        "article": "die",
+        "singular": "Milch",
+        "plural": "",
+        "meaning": "Milk",
+        "sentence": "Die Milch ist im Kühlschrank."
+    },
+    {
+        "category": "Food",
+        "article": "der",
+        "singular": "Käse",
+        "plural": "",
+        "meaning": "Cheese",
+        "sentence": "Ich esse gerne Käse."
+    },
+    {
+        "category": "Food",
+        "article": "die",
+        "singular": "Wurst",
+        "plural": "Würste",
+        "meaning": "Sausage",
+        "sentence": "Die Wurst schmeckt gut."
+    },
+    {
+        "category": "Food",
+        "article": "das",
+        "singular": "Fleisch",
+        "plural": "",
+        "meaning": "Meat",
+        "sentence": "Wir essen heute kein Fleisch."
+    },
+    {
+        "category": "Food",
+        "article": "der",
+        "singular": "Fisch",
+        "plural": "Fische",
+        "meaning": "Fish",
+        "sentence": "Der Fisch ist frisch."
+    },
+    {
+        "category": "Food",
+        "article": "das",
+        "singular": "Ei",
+        "plural": "Eier",
+        "meaning": "Egg",
+        "sentence": "Ich koche ein Ei."
+    },
+    {
+        "category": "Food",
+        "article": "der",
+        "singular": "Apfel",
+        "plural": "Äpfel",
+        "meaning": "Apple",
+        "sentence": "Ein Apfel am Tag ist gesund."
+    },
+    {
+        "category": "Food",
+        "article": "die",
+        "singular": "Banane",
+        "plural": "Bananen",
+        "meaning": "Banana",
+        "sentence": "Die Banane ist gelb."
+    },
+    {
+        "category": "Food",
+        "article": "die",
+        "singular": "Kartoffel",
+        "plural": "Kartoffeln",
+        "meaning": "Potato",
+        "sentence": "Kartoffeln sind typisch deutsch."
+    },
+    {
+        "category": "Food",
+        "article": "der",
+        "singular": "Reis",
+        "plural": "",
+        "meaning": "Rice",
+        "sentence": "Ich esse Hähnchen mit Reis."
+    },
+    {
+        "category": "Food",
+        "article": "die",
+        "singular": "Nudel",
+        "plural": "Nudeln",
+        "meaning": "Noodle / Pasta",
+        "sentence": "Die Nudeln sind lecker."
+    },
+    {
+        "category": "Food",
+        "article": "der",
+        "singular": "Zucker",
+        "plural": "",
+        "meaning": "Sugar",
+        "sentence": "Nicht so viel Zucker!"
+    },
+    {
+        "category": "Food",
+        "article": "das",
+        "singular": "Salz",
+        "plural": "",
+        "meaning": "Salt",
+        "sentence": "Gib mir bitte das Salz."
+    },
+    {
+        "category": "Food",
+        "article": "das",
+        "singular": "Frühstück",
+        "plural": "",
+        "meaning": "Breakfast",
+        "sentence": "Ich esse Müsli zum Frühstück."
+    },
+    {
+        "category": "Food",
+        "article": "das",
+        "singular": "Mittagessen",
+        "plural": "",
+        "meaning": "Lunch",
+        "sentence": "Wann ist Mittagessen?"
+    },
+    {
+        "category": "Food",
+        "article": "das",
+        "singular": "Abendessen",
+        "plural": "",
+        "meaning": "Dinner",
+        "sentence": "Wir essen um 19 Uhr Abendessen."
+    },
+    {
+        "category": "Furniture",
+        "article": "der",
+        "singular": "Tisch",
+        "plural": "Tische",
+        "meaning": "Table",
+        "sentence": "Der Tisch ist gedeckt."
+    },
+    {
+        "category": "Furniture",
+        "article": "der",
+        "singular": "Stuhl",
+        "plural": "Stühle",
+        "meaning": "Chair",
+        "sentence": "Der Stuhl ist bequem."
+    },
+    {
+        "category": "Furniture",
+        "article": "das",
+        "singular": "Bett",
+        "plural": "Betten",
+        "meaning": "Bed",
+        "sentence": "Ich gehe ins Bett."
+    },
+    {
+        "category": "Furniture",
+        "article": "der",
+        "singular": "Schrank",
+        "plural": "Schränke",
+        "meaning": "Cupboard / Wardrobe",
+        "sentence": "Die Kleidung ist im Schrank."
+    },
+    {
+        "category": "Furniture",
+        "article": "das",
+        "singular": "Sofa",
+        "plural": "Sofas",
+        "meaning": "Sofa",
+        "sentence": "Das Sofa ist weich."
+    },
+    {
+        "category": "Furniture",
+        "article": "die",
+        "singular": "Lampe",
+        "plural": "Lampen",
+        "meaning": "Lamp",
+        "sentence": "Mach die Lampe an."
+    },
+    {
+        "category": "Furniture",
+        "article": "der",
+        "singular": "Teppich",
+        "plural": "Teppiche",
+        "meaning": "Carpet",
+        "sentence": "Der Teppich ist rot."
+    },
+    {
+        "category": "Furniture",
+        "article": "das",
+        "singular": "Bild",
+        "plural": "Bilder",
+        "meaning": "Picture",
+        "sentence": "Das Bild hängt an der Wand."
+    },
+    {
+        "category": "Furniture",
+        "article": "der",
+        "singular": "Spiegel",
+        "plural": "Spiegel",
+        "meaning": "Mirror",
+        "sentence": "Ich schaue in den Spiegel."
+    },
+    {
+        "category": "Furniture",
+        "article": "das",
+        "singular": "Regal",
+        "plural": "Regale",
+        "meaning": "Shelf",
+        "sentence": "Die Bücher stehen im Regal."
+    },
+    {
+        "category": "Household",
+        "article": "das",
+        "singular": "Haus",
+        "plural": "Häuser",
+        "meaning": "House",
+        "sentence": "Das Haus ist alt."
+    },
+    {
+        "category": "Household",
+        "article": "die",
+        "singular": "Wohnung",
+        "plural": "Wohnungen",
+        "meaning": "Apartment",
+        "sentence": "Die Wohnung hat drei Zimmer."
+    },
+    {
+        "category": "Household",
+        "article": "das",
+        "singular": "Zimmer",
+        "plural": "Zimmer",
+        "meaning": "Room",
+        "sentence": "Mein Zimmer ist hell."
+    },
+    {
+        "category": "Household",
+        "article": "die",
+        "singular": "Küche",
+        "plural": "Küchen",
+        "meaning": "Kitchen",
+        "sentence": "Wir kochen in der Küche."
+    },
+    {
+        "category": "Household",
+        "article": "das",
+        "singular": "Bad",
+        "plural": "Bäder",
+        "meaning": "Bathroom",
+        "sentence": "Das Bad ist besetzt."
+    },
+    {
+        "category": "Household",
+        "article": "die",
+        "singular": "Toilette",
+        "plural": "Toiletten",
+        "meaning": "Toilet",
+        "sentence": "Wo ist die Toilette?"
+    },
+    {
+        "category": "Household",
+        "article": "das",
+        "singular": "Wohnzimmer",
+        "plural": "Wohnzimmer",
+        "meaning": "Living room",
+        "sentence": "Wir sitzen im Wohnzimmer."
+    },
+    {
+        "category": "Household",
+        "article": "das",
+        "singular": "Schlafzimmer",
+        "plural": "Schlafzimmer",
+        "meaning": "Bedroom",
+        "sentence": "Das Schlafzimmer ist ruhig."
+    },
+    {
+        "category": "Household",
+        "article": "der",
+        "singular": "Balkon",
+        "plural": "Balkone",
+        "meaning": "Balcony",
+        "sentence": "Die Wohnung hat einen Balkon."
+    },
+    {
+        "category": "Household",
+        "article": "der",
+        "singular": "Garten",
+        "plural": "Gärten",
+        "meaning": "Garden",
+        "sentence": "Der Garten ist schön."
+    },
+    {
+        "category": "Household",
+        "article": "die",
+        "singular": "Tür",
+        "plural": "Türen",
+        "meaning": "Door",
+        "sentence": "Mach die Tür zu."
+    },
+    {
+        "category": "Household",
+        "article": "das",
+        "singular": "Fenster",
+        "plural": "Fenster",
+        "meaning": "Window",
+        "sentence": "Öffne das Fenster bitte."
+    },
+    {
+        "category": "Household",
+        "article": "die",
+        "singular": "Wand",
+        "plural": "Wände",
+        "meaning": "Wall",
+        "sentence": "Die Wand ist weiß."
+    },
+    {
+        "category": "Household",
+        "article": "der",
+        "singular": "Boden",
+        "plural": "Böden",
+        "meaning": "Floor",
+        "sentence": "Der Boden ist aus Holz."
+    },
+    {
+        "category": "Household",
+        "article": "das",
+        "singular": "Dach",
+        "plural": "Dächer",
+        "meaning": "Roof",
+        "sentence": "Das Dach ist rot."
+    },
+    {
+        "category": "Household",
+        "article": "der",
+        "singular": "Schlüssel",
+        "plural": "Schlüssel",
+        "meaning": "Key",
+        "sentence": "Ich habe meinen Schlüssel vergessen."
+    },
+    {
+        "category": "Clothing",
+        "article": "die",
+        "singular": "Kleidung",
+        "plural": "",
+        "meaning": "Clothing",
+        "sentence": "Ich brauche neue Kleidung."
+    },
+    {
+        "category": "Clothing",
+        "article": "das",
+        "singular": "Hemd",
+        "plural": "Hemden",
+        "meaning": "Shirt",
+        "sentence": "Er trägt ein blaues Hemd."
+    },
+    {
+        "category": "Clothing",
+        "article": "die",
+        "singular": "Hose",
+        "plural": "Hosen",
+        "meaning": "Pants",
+        "sentence": "Die Hose ist schwarz."
+    },
+    {
+        "category": "Clothing",
+        "article": "der",
+        "singular": "Schuh",
+        "plural": "Schuhe",
+        "meaning": "Shoe",
+        "sentence": "Deine Schuhe sind dreckig."
+    },
+    {
+        "category": "Clothing",
+        "article": "die",
+        "singular": "Jacke",
+        "plural": "Jacken",
+        "meaning": "Jacket",
+        "sentence": "Es ist kalt, nimm eine Jacke."
+    },
+    {
+        "category": "Clothing",
+        "article": "das",
+        "singular": "Kleid",
+        "plural": "Kleider",
+        "meaning": "Dress",
+        "sentence": "Das Kleid steht dir gut."
+    },
+    {
+        "category": "Clothing",
+        "article": "der",
+        "singular": "Rock",
+        "plural": "Röcke",
+        "meaning": "Skirt",
+        "sentence": "Sie trägt einen Rock."
+    },
+    {
+        "category": "Clothing",
+        "article": "der",
+        "singular": "Pullover",
+        "plural": "Pullover",
+        "meaning": "Sweater",
+        "sentence": "Der Pullover ist warm."
+    },
+    {
+        "category": "Clothing",
+        "article": "das",
+        "singular": "T-Shirt",
+        "plural": "T-Shirts",
+        "meaning": "T-Shirt",
+        "sentence": "Ich trage gerne T-Shirts."
+    },
+    {
+        "category": "Clothing",
+        "article": "der",
+        "singular": "Mantel",
+        "plural": "Mäntel",
+        "meaning": "Coat",
+        "sentence": "Der Mantel ist elegant."
+    },
+    {
+        "category": "Clothing",
+        "article": "der",
+        "singular": "Hut",
+        "plural": "Hüte",
+        "meaning": "Hat",
+        "sentence": "Er trägt einen Hut."
+    },
+    {
+        "category": "Clothing",
+        "article": "die",
+        "singular": "Brille",
+        "plural": "Brillen",
+        "meaning": "Glasses",
+        "sentence": "Ich brauche meine Brille."
+    },
+    {
+        "category": "Clothing",
+        "article": "die",
+        "singular": "Tasche",
+        "plural": "Taschen",
+        "meaning": "Bag",
+        "sentence": "Die Tasche ist schwer."
+    },
+    {
+        "category": "Clothing",
+        "article": "der",
+        "singular": "Ring",
+        "plural": "Ringe",
+        "meaning": "Ring",
+        "sentence": "Der Ring ist aus Gold."
+    },
+    {
+        "category": "Clothing",
+        "article": "die",
+        "singular": "Uhr",
+        "plural": "Uhren",
+        "meaning": "Watch / Clock",
+        "sentence": "Wie viel Uhr ist es?"
+    },
+    {
+        "category": "Clothing",
+        "article": "die",
+        "singular": "Mode",
+        "plural": "",
+        "meaning": "Fashion",
+        "sentence": "Sie interessiert sich für Mode."
+    },
+    {
+        "category": "Clothing",
+        "article": "die",
+        "singular": "Farbe",
+        "plural": "Farben",
+        "meaning": "Color",
+        "sentence": "Welche Farbe magst du?"
+    },
+    {
+        "category": "Clothing",
+        "article": "die",
+        "singular": "Größe",
+        "plural": "Größen",
+        "meaning": "Size",
+        "sentence": "Haben Sie das in Größe M?"
+    },
+    {
+        "category": "Body",
+        "article": "der",
+        "singular": "Körper",
+        "plural": "Körper",
+        "meaning": "Body",
+        "sentence": "Sport ist gut für den Körper."
+    },
+    {
+        "category": "Body",
+        "article": "der",
+        "singular": "Kopf",
+        "plural": "Köpfe",
+        "meaning": "Head",
+        "sentence": "Ich habe Kopfschmerzen."
+    },
+    {
+        "category": "Body",
+        "article": "das",
+        "singular": "Haar",
+        "plural": "Haare",
+        "meaning": "Hair",
+        "sentence": "Sie hat lange Haare."
+    },
+    {
+        "category": "Body",
+        "article": "das",
+        "singular": "Gesicht",
+        "plural": "Gesichter",
+        "meaning": "Face",
+        "sentence": "Er hat ein freundliches Gesicht."
+    },
+    {
+        "category": "Body",
+        "article": "das",
+        "singular": "Auge",
+        "plural": "Augen",
+        "meaning": "Eye",
+        "sentence": "Sie hat blaue Augen."
+    },
+    {
+        "category": "Body",
+        "article": "die",
+        "singular": "Nase",
+        "plural": "Nasen",
+        "meaning": "Nose",
+        "sentence": "Meine Nase läuft."
+    },
+    {
+        "category": "Body",
+        "article": "der",
+        "singular": "Mund",
+        "plural": "Münder",
+        "meaning": "Mouth",
+        "sentence": "Mach den Mund auf."
+    },
+    {
+        "category": "Body",
+        "article": "der",
+        "singular": "Zahn",
+        "plural": "Zähne",
+        "meaning": "Tooth",
+        "sentence": "Ich muss Zähne putzen."
+    },
+    {
+        "category": "Body",
+        "article": "das",
+        "singular": "Ohr",
+        "plural": "Ohren",
+        "meaning": "Ear",
+        "sentence": "Er hat große Ohren."
+    },
+    {
+        "category": "Body",
+        "article": "der",
+        "singular": "Hals",
+        "plural": "Hälse",
+        "meaning": "Neck / Throat",
+        "sentence": "Mein Hals tut weh."
+    },
+    {
+        "category": "Body",
+        "article": "die",
+        "singular": "Hand",
+        "plural": "Hände",
+        "meaning": "Hand",
+        "sentence": "Gib mir deine Hand."
+    },
+    {
+        "category": "Body",
+        "article": "der",
+        "singular": "Finger",
+        "plural": "Finger",
+        "meaning": "Finger",
+        "sentence": "Ich habe mich in den Finger geschnitten."
+    },
+    {
+        "category": "Body",
+        "article": "das",
+        "singular": "Bein",
+        "plural": "Beine",
+        "meaning": "Leg",
+        "sentence": "Mein Bein tut weh."
+    },
+    {
+        "category": "Body",
+        "article": "der",
+        "singular": "Fuß",
+        "plural": "Füße",
+        "meaning": "Foot",
+        "sentence": "Ich gehe zu Fuß."
+    },
+    {
+        "category": "Body",
+        "article": "das",
+        "singular": "Herz",
+        "plural": "Herzen",
+        "meaning": "Heart",
+        "sentence": "Mein Herz schlägt schnell."
+    },
+    {
+        "category": "City",
+        "article": "die",
+        "singular": "Stadt",
+        "plural": "Städte",
+        "meaning": "City",
+        "sentence": "Ich wohne in der Stadt."
+    },
+    {
+        "category": "City",
+        "article": "das",
+        "singular": "Dorf",
+        "plural": "Dörfer",
+        "meaning": "Village",
+        "sentence": "Das Dorf ist klein."
+    },
+    {
+        "category": "City",
+        "article": "das",
+        "singular": "Zentrum",
+        "plural": "Zentren",
+        "meaning": "Center",
+        "sentence": "Wir treffen uns im Zentrum."
+    },
+    {
+        "category": "City",
+        "article": "die",
+        "singular": "Straße",
+        "plural": "Straßen",
+        "meaning": "Street",
+        "sentence": "Die Straße ist laut."
+    },
+    {
+        "category": "City",
+        "article": "der",
+        "singular": "Platz",
+        "plural": "Plätze",
+        "meaning": "Square / Place",
+        "sentence": "Der Platz ist voll."
+    },
+    {
+        "category": "City",
+        "article": "der",
+        "singular": "Park",
+        "plural": "Parks",
+        "meaning": "Park",
+        "sentence": "Wir gehen im Park spazieren."
+    },
+    {
+        "category": "City",
+        "article": "die",
+        "singular": "Schule",
+        "plural": "Schulen",
+        "meaning": "School",
+        "sentence": "Die Schule beginnt um 8 Uhr."
+    },
+    {
+        "category": "City",
+        "article": "die",
+        "singular": "Universität",
+        "plural": "Universitäten",
+        "meaning": "University",
+        "sentence": "Sie studiert an der Universität."
+    },
+    {
+        "category": "City",
+        "article": "der",
+        "singular": "Laden",
+        "plural": "Läden",
+        "meaning": "Shop / Store",
+        "sentence": "Der Laden hat zu."
+    },
+    {
+        "category": "City",
+        "article": "der",
+        "singular": "Markt",
+        "plural": "Märkte",
+        "meaning": "Market",
+        "sentence": "Ich kaufe Obst auf dem Markt."
+    },
+    {
+        "category": "City",
+        "article": "das",
+        "singular": "Krankenhaus",
+        "plural": "Krankenhäuser",
+        "meaning": "Hospital",
+        "sentence": "Er liegt im Krankenhaus."
+    },
+    {
+        "category": "City",
+        "article": "die",
+        "singular": "Apotheke",
+        "plural": "Apotheken",
+        "meaning": "Pharmacy",
+        "sentence": "Die Apotheke ist geschlossen."
+    },
+    {
+        "category": "City",
+        "article": "das",
+        "singular": "Restaurant",
+        "plural": "Restaurants",
+        "meaning": "Restaurant",
+        "sentence": "Wir essen im Restaurant."
+    },
+    {
+        "category": "City",
+        "article": "das",
+        "singular": "Hotel",
+        "plural": "Hotels",
+        "meaning": "Hotel",
+        "sentence": "Das Hotel ist teuer."
+    },
+    {
+        "category": "City",
+        "article": "der",
+        "singular": "Bahnhof",
+        "plural": "Bahnhöfe",
+        "meaning": "Train Station",
+        "sentence": "Der Zug steht am Bahnhof."
+    },
+    {
+        "category": "City",
+        "article": "der",
+        "singular": "Flughafen",
+        "plural": "Flughäfen",
+        "meaning": "Airport",
+        "sentence": "Wir fahren zum Flughafen."
+    },
+    {
+        "category": "City",
+        "article": "die",
+        "singular": "Bibliothek",
+        "plural": "Bibliotheken",
+        "meaning": "Library",
+        "sentence": "In der Bibliothek ist es leise."
+    },
+    {
+        "category": "City",
+        "article": "das",
+        "singular": "Kino",
+        "plural": "Kinos",
+        "meaning": "Cinema",
+        "sentence": "Wir gehen ins Kino."
+    },
+    {
+        "category": "Nature",
+        "article": "die",
+        "singular": "Natur",
+        "plural": "",
+        "meaning": "Nature",
+        "sentence": "Ich liebe die Natur."
+    },
+    {
+        "category": "Nature",
+        "article": "der",
+        "singular": "Baum",
+        "plural": "Bäume",
+        "meaning": "Tree",
+        "sentence": "Der Baum ist alt."
+    },
+    {
+        "category": "Nature",
+        "article": "die",
+        "singular": "Blume",
+        "plural": "Blumen",
+        "meaning": "Flower",
+        "sentence": "Die Blume ist rot."
+    },
+    {
+        "category": "Nature",
+        "article": "der",
+        "singular": "Wald",
+        "plural": "Wälder",
+        "meaning": "Forest",
+        "sentence": "Wir gehen in den Wald."
+    },
+    {
+        "category": "Nature",
+        "article": "der",
+        "singular": "Berg",
+        "plural": "Berge",
+        "meaning": "Mountain",
+        "sentence": "Der Berg ist hoch."
+    },
+    {
+        "category": "Nature",
+        "article": "der",
+        "singular": "See",
+        "plural": "Seen",
+        "meaning": "Lake",
+        "sentence": "Der See ist tief."
+    },
+    {
+        "category": "Nature",
+        "article": "das",
+        "singular": "Meer",
+        "plural": "Meere",
+        "meaning": "Sea",
+        "sentence": "Ich fahre ans Meer."
+    },
+    {
+        "category": "Nature",
+        "article": "der",
+        "singular": "Strand",
+        "plural": "Strände",
+        "meaning": "Beach",
+        "sentence": "Der Strand ist schön."
+    },
+    {
+        "category": "Nature",
+        "article": "der",
+        "singular": "Himmel",
+        "plural": "",
+        "meaning": "Sky",
+        "sentence": "Der Himmel ist blau."
+    },
+    {
+        "category": "Nature",
+        "article": "die",
+        "singular": "Sonne",
+        "plural": "",
+        "meaning": "Sun",
+        "sentence": "Die Sonne scheint."
+    },
+    {
+        "category": "Nature",
+        "article": "der",
+        "singular": "Mond",
+        "plural": "Monde",
+        "meaning": "Moon",
+        "sentence": "Der Mond scheint nachts."
+    },
+    {
+        "category": "Nature",
+        "article": "der",
+        "singular": "Stern",
+        "plural": "Sterne",
+        "meaning": "Star",
+        "sentence": "Die Sterne funkeln."
+    },
+    {
+        "category": "Nature",
+        "article": "das",
+        "singular": "Wetter",
+        "plural": "",
+        "meaning": "Weather",
+        "sentence": "Das Wetter ist gut."
+    },
+    {
+        "category": "Nature",
+        "article": "der",
+        "singular": "Regen",
+        "plural": "",
+        "meaning": "Rain",
+        "sentence": "Ich mag keinen Regen."
+    },
+    {
+        "category": "Nature",
+        "article": "der",
+        "singular": "Schnee",
+        "plural": "",
+        "meaning": "Snow",
+        "sentence": "Der Schnee ist kalt."
+    },
+    {
+        "category": "Nature",
+        "article": "der",
+        "singular": "Wind",
+        "plural": "Winde",
+        "meaning": "Wind",
+        "sentence": "Der Wind weht."
+    },
+    {
+        "category": "Animals",
+        "article": "das",
+        "singular": "Tier",
+        "plural": "Tiere",
+        "meaning": "Animal",
+        "sentence": "Ich mag Tiere."
+    },
+    {
+        "category": "Animals",
+        "article": "der",
+        "singular": "Hund",
+        "plural": "Hunde",
+        "meaning": "Dog",
+        "sentence": "Der Hund bellt."
+    },
+    {
+        "category": "Animals",
+        "article": "die",
+        "singular": "Katze",
+        "plural": "Katzen",
+        "meaning": "Cat",
+        "sentence": "Die Katze schläft."
+    },
+    {
+        "category": "Animals",
+        "article": "der",
+        "singular": "Vogel",
+        "plural": "Vögel",
+        "meaning": "Bird",
+        "sentence": "Der Vogel singt."
+    },
+    {
+        "category": "Animals",
+        "article": "das",
+        "singular": "Pferd",
+        "plural": "Pferde",
+        "meaning": "Horse",
+        "sentence": "Ich reite ein Pferd."
+    },
+    {
+        "category": "Work",
+        "article": "die",
+        "singular": "Arbeit",
+        "plural": "",
+        "meaning": "Work",
+        "sentence": "Ich gehe zur Arbeit."
+    },
+    {
+        "category": "Work",
+        "article": "der",
+        "singular": "Beruf",
+        "plural": "Berufe",
+        "meaning": "Profession",
+        "sentence": "Was ist dein Beruf?"
+    },
+    {
+        "category": "Work",
+        "article": "der",
+        "singular": "Chef",
+        "plural": "Chefs",
+        "meaning": "Boss",
+        "sentence": "Der Chef ist nett."
+    },
+    {
+        "category": "Work",
+        "article": "das",
+        "singular": "Büro",
+        "plural": "Büros",
+        "meaning": "Office",
+        "sentence": "Das Büro ist hell."
+    },
+    {
+        "category": "Work",
+        "article": "der",
+        "singular": "Computer",
+        "plural": "Computer",
+        "meaning": "Computer",
+        "sentence": "Ich arbeite am Computer."
+    },
+    {
+        "category": "Work",
+        "article": "das",
+        "singular": "Telefon",
+        "plural": "Telefone",
+        "meaning": "Telephone",
+        "sentence": "Das Telefon klingelt."
+    },
+    {
+        "category": "Work",
+        "article": "der",
+        "singular": "Lehrer",
+        "plural": "Lehrer",
+        "meaning": "Teacher",
+        "sentence": "Der Lehrer erklärt gut."
+    },
+    {
+        "category": "Work",
+        "article": "der",
+        "singular": "Arzt",
+        "plural": "Ärzte",
+        "meaning": "Doctor",
+        "sentence": "Ich muss zum Arzt."
+    },
+    {
+        "category": "Work",
+        "article": "das",
+        "singular": "Geld",
+        "plural": "",
+        "meaning": "Money",
+        "sentence": "Zeit ist Geld."
+    },
+    {
+        "category": "Abstract",
+        "article": "die",
+        "singular": "Zeit",
+        "plural": "",
+        "meaning": "Time",
+        "sentence": "Ich habe keine Zeit."
+    },
+    {
+        "category": "Abstract",
+        "article": "das",
+        "singular": "Jahr",
+        "plural": "Jahre",
+        "meaning": "Year",
+        "sentence": "Ein Jahr hat 12 Monate."
+    },
+    {
+        "category": "Abstract",
+        "article": "der",
+        "singular": "Tag",
+        "plural": "Tage",
+        "meaning": "Day",
+        "sentence": "Der Tag war schön."
+    },
+    {
+        "category": "Abstract",
+        "article": "die",
+        "singular": "Woche",
+        "plural": "Wochen",
+        "meaning": "Week",
+        "sentence": "Nächste Woche habe ich Urlaub."
+    },
+    {
+        "category": "Abstract",
+        "article": "der",
+        "singular": "Monat",
+        "plural": "Monate",
+        "meaning": "Month",
+        "sentence": "Der Monat Juli ist heiß."
+    },
+    {
+        "category": "Abstract",
+        "article": "die",
+        "singular": "Stunde",
+        "plural": "Stunden",
+        "meaning": "Hour",
+        "sentence": "Ich warte eine Stunde."
+    },
+    {
+        "category": "Abstract",
+        "article": "die",
+        "singular": "Minute",
+        "plural": "Minuten",
+        "meaning": "Minute",
+        "sentence": "Nur eine Minute, bitte."
+    },
+    {
+        "category": "Abstract",
+        "article": "der",
+        "singular": "Name",
+        "plural": "Namen",
+        "meaning": "Name",
+        "sentence": "Mein Name ist Bond."
+    },
+    {
+        "category": "Abstract",
+        "article": "die",
+        "singular": "Nummer",
+        "plural": "Nummern",
+        "meaning": "Number",
+        "sentence": "Wie ist deine Nummer?"
+    },
+    {
+        "category": "Abstract",
+        "article": "das",
+        "singular": "Problem",
+        "plural": "Probleme",
+        "meaning": "Problem",
+        "sentence": "Das ist kein Problem."
+    },
+    {
+        "category": "Abstract",
+        "article": "die",
+        "singular": "Frage",
+        "plural": "Fragen",
+        "meaning": "Question",
+        "sentence": "Ich habe eine Frage."
+    },
+    {
+        "category": "Abstract",
+        "article": "die",
+        "singular": "Antwort",
+        "plural": "Antworten",
+        "meaning": "Answer",
+        "sentence": "Die Antwort ist richtig."
+    },
+    {
+        "category": "Abstract",
+        "article": "die",
+        "singular": "Idee",
+        "plural": "Ideen",
+        "meaning": "Idea",
+        "sentence": "Gute Idee!"
+    },
+    {
+        "category": "Abstract",
+        "article": "der",
+        "singular": "Grund",
+        "plural": "Gründe",
+        "meaning": "Reason",
+        "sentence": "Was ist der Grund?"
+    },
+    {
+        "category": "Abstract",
+        "article": "die",
+        "singular": "Art",
+        "plural": "Arten",
+        "meaning": "Type / Way",
+        "sentence": "Das ist seine Art."
+    },
+    {
+        "category": "Abstract",
+        "article": "das",
+        "singular": "Beispiel",
+        "plural": "Beispiele",
+        "meaning": "Example",
+        "sentence": "Zum Beispiel."
+    },
+    {
+        "category": "Abstract",
+        "article": "die",
+        "singular": "Seite",
+        "plural": "Seiten",
+        "meaning": "Page / Side",
+        "sentence": "Auf der anderen Seite."
+    },
+    {
+        "category": "Abstract",
+        "article": "der",
+        "singular": "Teil",
+        "plural": "Teile",
+        "meaning": "Part",
+        "sentence": "Das ist nur ein Teil."
+    },
+    {
+        "category": "Abstract",
+        "article": "die",
+        "singular": "Welt",
+        "plural": "Welten",
+        "meaning": "World",
+        "sentence": "Die Welt ist groß."
+    },
+    {
+        "category": "Abstract",
+        "article": "das",
+        "singular": "Leben",
+        "plural": "Leben",
+        "meaning": "Life",
+        "sentence": "Das Leben ist schön."
+    },
+    {
+        "category": "Abstract",
+        "article": "die",
+        "singular": "Liebe",
+        "plural": "",
+        "meaning": "Love",
+        "sentence": "Liebe ist wichtig."
+    },
+    {
+        "category": "Abstract",
+        "article": "der",
+        "singular": "Spaß",
+        "plural": "",
+        "meaning": "Fun",
+        "sentence": "Viel Spaß!"
+    },
+    {
+        "category": "Abstract",
+        "article": "das",
+        "singular": "Glück",
+        "plural": "",
+        "meaning": "Luck / Happiness",
+        "sentence": "Viel Glück!"
+    },
+    {
+        "category": "Abstract",
+        "article": "die",
+        "singular": "Angst",
+        "plural": "Ängste",
+        "meaning": "Fear",
+        "sentence": "Ich habe keine Angst."
+    },
+    {
+        "category": "Abstract",
+        "article": "die",
+        "singular": "Hilfe",
+        "plural": "",
+        "meaning": "Help",
+        "sentence": "Ich brauche Hilfe."
+    },
+    {
+        "category": "Technology",
+        "article": "der",
+        "singular": "Laptop",
+        "plural": "Laptops",
+        "meaning": "Laptop",
+        "sentence": "Ich arbeite an meinem Laptop."
+    },
+    {
+        "category": "Technology",
+        "article": "der",
+        "singular": "Bildschirm",
+        "plural": "Bildschirme",
+        "meaning": "Screen / Monitor",
+        "sentence": "Der Bildschirm ist sehr groß."
+    },
+    {
+        "category": "Technology",
+        "article": "die",
+        "singular": "Tastatur",
+        "plural": "Tastaturen",
+        "meaning": "Keyboard",
+        "sentence": "Die Tastatur ist kaputt."
+    },
+    {
+        "category": "Technology",
+        "article": "die",
+        "singular": "Maus",
+        "plural": "Mäuse",
+        "meaning": "Computer Mouse",
+        "sentence": "Klick mit der Maus."
+    },
+    {
+        "category": "Technology",
+        "article": "der",
+        "singular": "Drucker",
+        "plural": "Drucker",
+        "meaning": "Printer",
+        "sentence": "Der Drucker hat kein Papier."
+    },
+    {
+        "category": "Technology",
+        "article": "das",
+        "singular": "Kabel",
+        "plural": "Kabel",
+        "meaning": "Cable",
+        "sentence": "Wo ist das Ladekabel?"
+    },
+    {
+        "category": "Technology",
+        "article": "das",
+        "singular": "Internet",
+        "plural": "",
+        "meaning": "Internet",
+        "sentence": "Das Internet ist langsam."
+    },
+    {
+        "category": "Technology",
+        "article": "die",
+        "singular": "App",
+        "plural": "Apps",
+        "meaning": "App",
+        "sentence": "Diese App ist nützlich."
+    },
+    {
+        "category": "Technology",
+        "article": "das",
+        "singular": "Passwort",
+        "plural": "Passwörter",
+        "meaning": "Password",
+        "sentence": "Ich habe mein Passwort vergessen."
+    },
+    {
+        "category": "Technology",
+        "article": "die",
+        "singular": "Datei",
+        "plural": "Dateien",
+        "meaning": "File (digital)",
+        "sentence": "Speicher die Datei bitte."
+    },
+    {
+        "category": "Technology",
+        "article": "der",
+        "singular": "Ordner",
+        "plural": "Ordner",
+        "meaning": "Folder",
+        "sentence": "Der Ordner ist leer."
+    },
+    {
+        "category": "Technology",
+        "article": "die",
+        "singular": "Kamera",
+        "plural": "Kameras",
+        "meaning": "Camera",
+        "sentence": "Die Kamera macht gute Fotos."
+    },
+    {
+        "category": "Technology",
+        "article": "das",
+        "singular": "Radio",
+        "plural": "Radios",
+        "meaning": "Radio",
+        "sentence": "Ich höre Radio im Auto."
+    },
+    {
+        "category": "Technology",
+        "article": "der",
+        "singular": "Fernseher",
+        "plural": "Fernseher",
+        "meaning": "Television (Device)",
+        "sentence": "Der Fernseher ist neu."
+    },
+    {
+        "category": "Technology",
+        "article": "die",
+        "singular": "Nachricht",
+        "plural": "Nachrichten",
+        "meaning": "Message / News",
+        "sentence": "Ich habe eine Nachricht bekommen."
+    },
+    {
+        "category": "Education",
+        "article": "das",
+        "singular": "Heft",
+        "plural": "Hefte",
+        "meaning": "Notebook",
+        "sentence": "Schreib es in das Heft."
+    },
+    {
+        "category": "Education",
+        "article": "der",
+        "singular": "Stift",
+        "plural": "Stifte",
+        "meaning": "Pen / Pencil (Generic)",
+        "sentence": "Hast du einen Stift für mich?"
+    },
+    {
+        "category": "Education",
+        "article": "der",
+        "singular": "Kugelschreiber",
+        "plural": "Kugelschreiber",
+        "meaning": "Ballpoint Pen",
+        "sentence": "Der Kugelschreiber schreibt blau."
+    },
+    {
+        "category": "Education",
+        "article": "der",
+        "singular": "Bleistift",
+        "plural": "Bleistifte",
+        "meaning": "Pencil",
+        "sentence": "Der Bleistift ist stumpf."
+    },
+    {
+        "category": "Education",
+        "article": "das",
+        "singular": "Papier",
+        "plural": "Papiere",
+        "meaning": "Paper",
+        "sentence": "Ich brauche ein Blatt Papier."
+    },
+    {
+        "category": "Education",
+        "article": "die",
+        "singular": "Schere",
+        "plural": "Scheren",
+        "meaning": "Scissors",
+        "sentence": "Die Schere ist scharf."
+    },
+    {
+        "category": "Education",
+        "article": "der",
+        "singular": "Radiergummi",
+        "plural": "Radiergummis",
+        "meaning": "Eraser",
+        "sentence": "Ich benutze den Radiergummi."
+    },
+    {
+        "category": "Education",
+        "article": "das",
+        "singular": "Lineal",
+        "plural": "Lineale",
+        "meaning": "Ruler",
+        "sentence": "Das Lineal ist 30 Zentimeter lang."
+    },
+    {
+        "category": "Education",
+        "article": "die",
+        "singular": "Tafel",
+        "plural": "Tafeln",
+        "meaning": "Blackboard / Whiteboard",
+        "sentence": "Der Lehrer schreibt an die Tafel."
+    },
+    {
+        "category": "Education",
+        "article": "die",
+        "singular": "Kreide",
+        "plural": "Kreiden",
+        "meaning": "Chalk",
+        "sentence": "Die Kreide ist weiß."
+    },
+    {
+        "category": "Education",
+        "article": "die",
+        "singular": "Note",
+        "plural": "Noten",
+        "meaning": "Grade / Mark",
+        "sentence": "Ich habe eine gute Note."
+    },
+    {
+        "category": "Education",
+        "article": "das",
+        "singular": "Zeugnis",
+        "plural": "Zeugnisse",
+        "meaning": "Report card / Certificate",
+        "sentence": "Das Zeugnis ist wichtig."
+    },
+    {
+        "category": "Education",
+        "article": "die",
+        "singular": "Prüfung",
+        "plural": "Prüfungen",
+        "meaning": "Exam",
+        "sentence": "Die Prüfung war schwer."
+    },
+    {
+        "category": "Education",
+        "article": "die",
+        "singular": "Hausaufgabe",
+        "plural": "Hausaufgaben",
+        "meaning": "Homework",
+        "sentence": "Ich muss meine Hausaufgaben machen."
+    },
+    {
+        "category": "Education",
+        "article": "der",
+        "singular": "Schüler",
+        "plural": "Schüler",
+        "meaning": "Student (School)",
+        "sentence": "Der Schüler lernt viel."
+    },
+    {
+        "category": "Health",
+        "article": "die",
+        "singular": "Gesundheit",
+        "plural": "",
+        "meaning": "Health",
+        "sentence": "Gesundheit ist das Wichtigste."
+    },
+    {
+        "category": "Health",
+        "article": "das",
+        "singular": "Fieber",
+        "plural": "",
+        "meaning": "Fever",
+        "sentence": "Das Kind hat hohes Fieber."
+    },
+    {
+        "category": "Health",
+        "article": "der",
+        "singular": "Husten",
+        "plural": "",
+        "meaning": "Cough",
+        "sentence": "Der Husten ist schlimm."
+    },
+    {
+        "category": "Health",
+        "article": "der",
+        "singular": "Schnupfen",
+        "plural": "",
+        "meaning": "Cold / Runny nose",
+        "sentence": "Ich habe Schnupfen."
+    },
+    {
+        "category": "Health",
+        "article": "die",
+        "singular": "Grippe",
+        "plural": "",
+        "meaning": "Flu",
+        "sentence": "Er hat die Grippe."
+    },
+    {
+        "category": "Health",
+        "article": "der",
+        "singular": "Schmerz",
+        "plural": "Schmerzen",
+        "meaning": "Pain",
+        "sentence": "Ich habe Schmerzen im Rücken."
+    },
+    {
+        "category": "Health",
+        "article": "das",
+        "singular": "Medikament",
+        "plural": "Medikamente",
+        "meaning": "Medication",
+        "sentence": "Nimmst du Medikamente?"
+    },
+    {
+        "category": "Health",
+        "article": "die",
+        "singular": "Tablette",
+        "plural": "Tabletten",
+        "meaning": "Pill / Tablet",
+        "sentence": "Nimm eine Tablette gegen Kopfweh."
+    },
+    {
+        "category": "Health",
+        "article": "das",
+        "singular": "Pflaster",
+        "plural": "Pflaster",
+        "meaning": "Plaster / Band-Aid",
+        "sentence": "Ich brauche ein Pflaster."
+    },
+    {
+        "category": "Health",
+        "article": "der",
+        "singular": "Verband",
+        "plural": "Verbände",
+        "meaning": "Bandage",
+        "sentence": "Der Arzt wechselt den Verband."
+    },
+    {
+        "category": "Health",
+        "article": "die",
+        "singular": "Salbe",
+        "plural": "Salben",
+        "meaning": "Ointment",
+        "sentence": "Die Salbe hilft gut."
+    },
+    {
+        "category": "Health",
+        "article": "das",
+        "singular": "Rezept",
+        "plural": "Rezepte",
+        "meaning": "Prescription",
+        "sentence": "Das ist das Rezept für die Apotheke."
+    },
+    {
+        "category": "Health",
+        "article": "der",
+        "singular": "Patient",
+        "plural": "Patienten",
+        "meaning": "Patient",
+        "sentence": "Der Patient wartet."
+    },
+    {
+        "category": "Health",
+        "article": "der",
+        "singular": "Unfall",
+        "plural": "Unfälle",
+        "meaning": "Accident",
+        "sentence": "Es gab einen Unfall."
+    },
+    {
+        "category": "Health",
+        "article": "der",
+        "singular": "Zahnarzt",
+        "plural": "Zahnärzte",
+        "meaning": "Dentist",
+        "sentence": "Ich habe Angst vor dem Zahnarzt."
+    },
+    {
+        "category": "Animals",
+        "article": "die",
+        "singular": "Kuh",
+        "plural": "Kühe",
+        "meaning": "Cow",
+        "sentence": "Die Kuh gibt Milch."
+    },
+    {
+        "category": "Animals",
+        "article": "das",
+        "singular": "Schwein",
+        "plural": "Schweine",
+        "meaning": "Pig",
+        "sentence": "Das Schwein ist rosa."
+    },
+    {
+        "category": "Animals",
+        "article": "das",
+        "singular": "Schaf",
+        "plural": "Schafe",
+        "meaning": "Sheep",
+        "sentence": "Das Schaf hat Wolle."
+    },
+    {
+        "category": "Animals",
+        "article": "die",
+        "singular": "Ziege",
+        "plural": "Ziegen",
+        "meaning": "Goat",
+        "sentence": "Die Ziege klettert."
+    },
+    {
+        "category": "Animals",
+        "article": "das",
+        "singular": "Huhn",
+        "plural": "Hühner",
+        "meaning": "Chicken (Animal)",
+        "sentence": "Das Huhn legt ein Ei."
+    },
+    {
+        "category": "Animals",
+        "article": "die",
+        "singular": "Ente",
+        "plural": "Enten",
+        "meaning": "Duck",
+        "sentence": "Die Ente schwimmt im See."
+    },
+    {
+        "category": "Animals",
+        "article": "die",
+        "singular": "Maus",
+        "plural": "Mäuse",
+        "meaning": "Mouse",
+        "sentence": "Die Katze jagt die Maus."
+    },
+    {
+        "category": "Animals",
+        "article": "der",
+        "singular": "Elefant",
+        "plural": "Elefanten",
+        "meaning": "Elephant",
+        "sentence": "Der Elefant ist riesig."
+    },
+    {
+        "category": "Animals",
+        "article": "der",
+        "singular": "Löwe",
+        "plural": "Löwen",
+        "meaning": "Lion",
+        "sentence": "Der Löwe ist der König."
+    },
+    {
+        "category": "Animals",
+        "article": "der",
+        "singular": "Tiger",
+        "plural": "Tiger",
+        "meaning": "Tiger",
+        "sentence": "Der Tiger hat Streifen."
+    },
+    {
+        "category": "Animals",
+        "article": "der",
+        "singular": "Bär",
+        "plural": "Bären",
+        "meaning": "Bear",
+        "sentence": "Der Bär schläft im Winter."
+    },
+    {
+        "category": "Animals",
+        "article": "der",
+        "singular": "Wolf",
+        "plural": "Wölfe",
+        "meaning": "Wolf",
+        "sentence": "Der Wolf heult."
+    },
+    {
+        "category": "Animals",
+        "article": "der",
+        "singular": "Fuchs",
+        "plural": "Füchse",
+        "meaning": "Fox",
+        "sentence": "Der Fuchs ist schlau."
+    },
+    {
+        "category": "Animals",
+        "article": "der",
+        "singular": "Hase",
+        "plural": "Hasen",
+        "meaning": "Rabbit / Hare",
+        "sentence": "Der Hase hat lange Ohren."
+    },
+    {
+        "category": "Animals",
+        "article": "die",
+        "singular": "Schlange",
+        "plural": "Schlangen",
+        "meaning": "Snake",
+        "sentence": "Die Schlange ist gefährlich."
+    },
+    {
+        "category": "Animals",
+        "article": "der",
+        "singular": "Fisch",
+        "plural": "Fische",
+        "meaning": "Fish",
+        "sentence": "Fische leben im Wasser."
+    },
+    {
+        "category": "Animals",
+        "article": "der",
+        "singular": "Affe",
+        "plural": "Affen",
+        "meaning": "Monkey",
+        "sentence": "Der Affe isst eine Banane."
+    },
+    {
+        "category": "Animals",
+        "article": "die",
+        "singular": "Spinne",
+        "plural": "Spinnen",
+        "meaning": "Spider",
+        "sentence": "Die Spinne hat acht Beine."
+    },
+    {
+        "category": "Animals",
+        "article": "die",
+        "singular": "Fliege",
+        "plural": "Fliegen",
+        "meaning": "Fly",
+        "sentence": "Die Fliege nervt."
+    },
+    {
+        "category": "Animals",
+        "article": "die",
+        "singular": "Biene",
+        "plural": "Bienen",
+        "meaning": "Bee",
+        "sentence": "Die Biene macht Honig."
+    },
+    {
+        "category": "Time",
+        "article": "die",
+        "singular": "Uhrzeit",
+        "plural": "Uhrzeiten",
+        "meaning": "Time of day",
+        "sentence": "Wie ist die Uhrzeit?"
+    },
+    {
+        "category": "Time",
+        "article": "der",
+        "singular": "Morgen",
+        "plural": "Morgen",
+        "meaning": "Morning",
+        "sentence": "Der Morgen ist frisch."
+    },
+    {
+        "category": "Time",
+        "article": "der",
+        "singular": "Mittag",
+        "plural": "Mittage",
+        "meaning": "Noon",
+        "sentence": "Wir essen am Mittag."
+    },
+    {
+        "category": "Time",
+        "article": "der",
+        "singular": "Nachmittag",
+        "plural": "Nachmittage",
+        "meaning": "Afternoon",
+        "sentence": "Am Nachmittag trinke ich Kaffee."
+    },
+    {
+        "category": "Time",
+        "article": "der",
+        "singular": "Abend",
+        "plural": "Abende",
+        "meaning": "Evening",
+        "sentence": "Guten Abend!"
+    },
+    {
+        "category": "Time",
+        "article": "die",
+        "singular": "Nacht",
+        "plural": "Nächte",
+        "meaning": "Night",
+        "sentence": "Die Nacht ist dunkel."
+    },
+    {
+        "category": "Time",
+        "article": "die",
+        "singular": "Mitternacht",
+        "plural": "",
+        "meaning": "Midnight",
+        "sentence": "Es ist Mitternacht."
+    },
+    {
+        "category": "Time",
+        "article": "der",
+        "singular": "Montag",
+        "plural": "Montage",
+        "meaning": "Monday",
+        "sentence": "Die Woche beginnt am Montag."
+    },
+    {
+        "category": "Time",
+        "article": "der",
+        "singular": "Dienstag",
+        "plural": "Dienstage",
+        "meaning": "Tuesday",
+        "sentence": "Am Dienstag habe ich Sport."
+    },
+    {
+        "category": "Time",
+        "article": "der",
+        "singular": "Mittwoch",
+        "plural": "Mittwoche",
+        "meaning": "Wednesday",
+        "sentence": "Mittwoch ist die Mitte der Woche."
+    },
+    {
+        "category": "Time",
+        "article": "der",
+        "singular": "Donnerstag",
+        "plural": "Donnerstage",
+        "meaning": "Thursday",
+        "sentence": "Wir sehen uns am Donnerstag."
+    },
+    {
+        "category": "Time",
+        "article": "der",
+        "singular": "Freitag",
+        "plural": "Freitage",
+        "meaning": "Friday",
+        "sentence": "Endlich ist Freitag!"
+    },
+    {
+        "category": "Time",
+        "article": "der",
+        "singular": "Samstag",
+        "plural": "Samstage",
+        "meaning": "Saturday",
+        "sentence": "Am Samstag gehe ich einkaufen."
+    },
+    {
+        "category": "Time",
+        "article": "der",
+        "singular": "Sonntag",
+        "plural": "Sonntage",
+        "meaning": "Sunday",
+        "sentence": "Am Sonntag ruhe ich mich aus."
+    },
+    {
+        "category": "Time",
+        "article": "das",
+        "singular": "Wochenende",
+        "plural": "Wochenenden",
+        "meaning": "Weekend",
+        "sentence": "Schönes Wochenende!"
+    },
+    {
+        "category": "Time",
+        "article": "der",
+        "singular": "Frühling",
+        "plural": "Frühlinge",
+        "meaning": "Spring",
+        "sentence": "Im Frühling blühen die Blumen."
+    },
+    {
+        "category": "Time",
+        "article": "der",
+        "singular": "Sommer",
+        "plural": "Sommer",
+        "meaning": "Summer",
+        "sentence": "Im Sommer ist es heiß."
+    },
+    {
+        "category": "Time",
+        "article": "der",
+        "singular": "Herbst",
+        "plural": "Herbste",
+        "meaning": "Autumn",
+        "sentence": "Im Herbst fallen die Blätter."
+    },
+    {
+        "category": "Time",
+        "article": "der",
+        "singular": "Winter",
+        "plural": "Winter",
+        "meaning": "Winter",
+        "sentence": "Im Winter schneit es."
+    },
+    {
+        "category": "Time",
+        "article": "der",
+        "singular": "Kalender",
+        "plural": "Kalender",
+        "meaning": "Calendar",
+        "sentence": "Ich schreibe den Termin in den Kalender."
+    },
+    {
+        "category": "Shopping",
+        "article": "der",
+        "singular": "Supermarkt",
+        "plural": "Supermärkte",
+        "meaning": "Supermarket",
+        "sentence": "Ich gehe in den Supermarkt."
+    },
+    {
+        "category": "Shopping",
+        "article": "das",
+        "singular": "Einkaufszentrum",
+        "plural": "Einkaufszentren",
+        "meaning": "Shopping Mall",
+        "sentence": "Das Einkaufszentrum ist riesig."
+    },
+    {
+        "category": "Shopping",
+        "article": "die",
+        "singular": "Kasse",
+        "plural": "Kassen",
+        "meaning": "Checkout / Cash register",
+        "sentence": "Bitte zahlen Sie an der Kasse."
+    },
+    {
+        "category": "Shopping",
+        "article": "der",
+        "singular": "Einkaufswagen",
+        "plural": "Einkaufswagen",
+        "meaning": "Shopping cart",
+        "sentence": "Ich brauche einen Chip für den Einkaufswagen."
+    },
+    {
+        "category": "Shopping",
+        "article": "das",
+        "singular": "Angebot",
+        "plural": "Angebote",
+        "meaning": "Offer / Sale",
+        "sentence": "Das ist ein gutes Angebot."
+    },
+    {
+        "category": "Shopping",
+        "article": "der",
+        "singular": "Kunde",
+        "plural": "Kunden",
+        "meaning": "Customer",
+        "sentence": "Der Kunde ist König."
+    },
+    {
+        "category": "Shopping",
+        "article": "der",
+        "singular": "Kassenbon",
+        "plural": "Kassenbons",
+        "meaning": "Receipt",
+        "sentence": "Brauchen Sie den Kassenbon?"
+    },
+    {
+        "category": "Shopping",
+        "article": "die",
+        "singular": "Kreditkarte",
+        "plural": "Kreditkarten",
+        "meaning": "Credit card",
+        "sentence": "Kann ich mit Kreditkarte bezahlen?"
+    },
+    {
+        "category": "Shopping",
+        "article": "",
+        "singular": "bezahlen",
+        "plural": "",
+        "meaning": "to pay",
+        "sentence": "Ich möchte bitte bezahlen."
+    },
+    {
+        "category": "Shopping",
+        "article": "",
+        "singular": "billig",
+        "plural": "",
+        "meaning": "cheap",
+        "sentence": "Die Schuhe waren sehr billig."
+    },
+    {
+        "category": "Emotions",
+        "article": "das",
+        "singular": "Gefühl",
+        "plural": "Gefühle",
+        "meaning": "Feeling",
+        "sentence": "Ich habe ein gutes Gefühl."
+    },
+    {
+        "category": "Emotions",
+        "article": "",
+        "singular": "froh",
+        "plural": "",
+        "meaning": "glad / happy",
+        "sentence": "Ich bin froh, dich zu sehen."
+    },
+    {
+        "category": "Emotions",
+        "article": "",
+        "singular": "wütend",
+        "plural": "",
+        "meaning": "angry / furious",
+        "sentence": "Warum bist du wütend?"
+    },
+    {
+        "category": "Emotions",
+        "article": "",
+        "singular": "nervös",
+        "plural": "",
+        "meaning": "nervous",
+        "sentence": "Vor der Prüfung bin ich nervös."
+    },
+    {
+        "category": "Emotions",
+        "article": "",
+        "singular": "ruhig",
+        "plural": "",
+        "meaning": "calm / quiet",
+        "sentence": "Bleib bitte ganz ruhig."
+    },
+    {
+        "category": "Emotions",
+        "article": "",
+        "singular": "stolz",
+        "plural": "",
+        "meaning": "proud",
+        "sentence": "Ich bin stolz auf dich."
+    },
+    {
+        "category": "Emotions",
+        "article": "",
+        "singular": "einsam",
+        "plural": "",
+        "meaning": "lonely",
+        "sentence": "Ohne dich fühle ich mich einsam."
+    },
+    {
+        "category": "Emotions",
+        "article": "",
+        "singular": "zufrieden",
+        "plural": "",
+        "meaning": "satisfied / content",
+        "sentence": "Bist du mit der Arbeit zufrieden?"
+    },
+    {
+        "category": "Emotions",
+        "article": "",
+        "singular": "überrascht",
+        "plural": "",
+        "meaning": "surprised",
+        "sentence": "Ich bin positiv überrascht."
+    },
+    {
+        "category": "Emotions",
+        "article": "",
+        "singular": "aufgeregt",
+        "plural": "",
+        "meaning": "excited",
+        "sentence": "Die Kinder sind sehr aufgeregt."
+    },
+    {
+        "category": "Weather",
+        "article": "der",
+        "singular": "Sturm",
+        "plural": "Stürme",
+        "meaning": "Storm",
+        "sentence": "Draußen tobt ein Sturm."
+    },
+    {
+        "category": "Weather",
+        "article": "der",
+        "singular": "Nebel",
+        "plural": "",
+        "meaning": "Fog",
+        "sentence": "Der Nebel ist sehr dicht."
+    },
+    {
+        "category": "Weather",
+        "article": "das",
+        "singular": "Gewitter",
+        "plural": "Gewitter",
+        "meaning": "Thunderstorm",
+        "sentence": "Im Sommer gibt es oft Gewitter."
+    },
+    {
+        "category": "Weather",
+        "article": "der",
+        "singular": "Blitz",
+        "plural": "Blitze",
+        "meaning": "Lightning",
+        "sentence": "Ich habe einen Blitz gesehen."
+    },
+    {
+        "category": "Weather",
+        "article": "der",
+        "singular": "Donner",
+        "plural": "",
+        "meaning": "Thunder",
+        "sentence": "Der Donner war laut."
+    },
+    {
+        "category": "Weather",
+        "article": "der",
+        "singular": "Hagel",
+        "plural": "",
+        "meaning": "Hail",
+        "sentence": "Der Hagel klopft ans Fenster."
+    },
+    {
+        "category": "Weather",
+        "article": "der",
+        "singular": "Grad",
+        "plural": "Grad",
+        "meaning": "Degree (Temperature)",
+        "sentence": "Heute sind es 25 Grad."
+    },
+    {
+        "category": "Weather",
+        "article": "",
+        "singular": "heiß",
+        "plural": "",
+        "meaning": "hot",
+        "sentence": "Mir ist sehr heiß."
+    },
+    {
+        "category": "Weather",
+        "article": "",
+        "singular": "kühl",
+        "plural": "",
+        "meaning": "cool",
+        "sentence": "Am Abend wird es kühl."
+    },
+    {
+        "category": "Weather",
+        "article": "",
+        "singular": "nass",
+        "plural": "",
+        "meaning": "wet",
+        "sentence": "Meine Schuhe sind nass."
+    },
+    {
+        "category": "Hobbies",
+        "article": "das",
+        "singular": "Hobby",
+        "plural": "Hobbys",
+        "meaning": "Hobby",
+        "sentence": "Mein Hobby ist Lesen."
+    },
+    {
+        "category": "Hobbies",
+        "article": "der",
+        "singular": "Sport",
+        "plural": "",
+        "meaning": "Sport",
+        "sentence": "Treibst du Sport?"
+    },
+    {
+        "category": "Hobbies",
+        "article": "der",
+        "singular": "Fußball",
+        "plural": "",
+        "meaning": "Soccer / Football",
+        "sentence": "Fußball ist in Deutschland beliebt."
+    },
+    {
+        "category": "Hobbies",
+        "article": "das",
+        "singular": "Tennis",
+        "plural": "",
+        "meaning": "Tennis",
+        "sentence": "Wir spielen Tennis."
+    },
+    {
+        "category": "Hobbies",
+        "article": "die",
+        "singular": "Gitarre",
+        "plural": "Gitarren",
+        "meaning": "Guitar",
+        "sentence": "Er spielt Gitarre."
+    },
+    {
+        "category": "Hobbies",
+        "article": "das",
+        "singular": "Klavier",
+        "plural": "Klaviere",
+        "meaning": "Piano",
+        "sentence": "Das Klavier muss gestimmt werden."
+    },
+    {
+        "category": "Hobbies",
+        "article": "",
+        "singular": "wandern",
+        "plural": "",
+        "meaning": "to hike",
+        "sentence": "Wir wandern in den Bergen."
+    },
+    {
+        "category": "Hobbies",
+        "article": "",
+        "singular": "malen",
+        "plural": "",
+        "meaning": "to paint",
+        "sentence": "Das Kind malt ein Bild."
+    },
+    {
+        "category": "Hobbies",
+        "article": "",
+        "singular": "singen",
+        "plural": "",
+        "meaning": "to sing",
+        "sentence": "Sie kann sehr gut singen."
+    },
+    {
+        "category": "Hobbies",
+        "article": "",
+        "singular": "fotografieren",
+        "plural": "",
+        "meaning": "to take photos",
+        "sentence": "Ich fotografiere gerne Landschaften."
+    },
+    {
+        "category": "Places",
+        "article": "die",
+        "singular": "Bäckerei",
+        "plural": "Bäckereien",
+        "meaning": "Bakery",
+        "sentence": "Das Brot in der Bäckerei ist frisch."
+    },
+    {
+        "category": "Places",
+        "article": "die",
+        "singular": "Metzgerei",
+        "plural": "Metzgereien",
+        "meaning": "Butcher shop",
+        "sentence": "Wir kaufen Fleisch in der Metzgerei."
+    },
+    {
+        "category": "Places",
+        "article": "die",
+        "singular": "Post",
+        "plural": "",
+        "meaning": "Post office",
+        "sentence": "Ich bringe das Paket zur Post."
+    },
+    {
+        "category": "Places",
+        "article": "die",
+        "singular": "Bank",
+        "plural": "Banken",
+        "meaning": "Bank",
+        "sentence": "Die Bank hat schon geschlossen."
+    },
+    {
+        "category": "Places",
+        "article": "das",
+        "singular": "Museum",
+        "plural": "Museen",
+        "meaning": "Museum",
+        "sentence": "Das Museum ist am Montag zu."
+    },
+    {
+        "category": "Places",
+        "article": "das",
+        "singular": "Theater",
+        "plural": "Theater",
+        "meaning": "Theater",
+        "sentence": "Wir gehen heute Abend ins Theater."
+    },
+    {
+        "category": "Places",
+        "article": "die",
+        "singular": "Kirche",
+        "plural": "Kirchen",
+        "meaning": "Church",
+        "sentence": "Die Kirche ist sehr alt."
+    },
+    {
+        "category": "Places",
+        "article": "das",
+        "singular": "Schwimmbad",
+        "plural": "Schwimmbäder",
+        "meaning": "Swimming pool",
+        "sentence": "Im Sommer gehen wir ins Schwimmbad."
+    },
+    {
+        "category": "Places",
+        "article": "das",
+        "singular": "Fitnessstudio",
+        "plural": "Fitnessstudios",
+        "meaning": "Gym",
+        "sentence": "Er trainiert im Fitnessstudio."
+    },
+    {
+        "category": "Places",
+        "article": "die",
+        "singular": "Tankstelle",
+        "plural": "Tankstellen",
+        "meaning": "Gas station",
+        "sentence": "Wir müssen zur Tankstelle fahren."
     }
 ]

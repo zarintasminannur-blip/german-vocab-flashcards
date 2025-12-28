@@ -2081,14 +2081,6 @@
     },
     {
         "category": "Abstract",
-        "article": "das",
-        "singular": "Leben",
-        "plural": "Leben",
-        "meaning": "Life",
-        "sentence": "Das Leben ist schön."
-    },
-    {
-        "category": "Abstract",
         "article": "die",
         "singular": "Liebe",
         "plural": "",
@@ -2537,14 +2529,6 @@
     },
     {
         "category": "Animals",
-        "article": "die",
-        "singular": "Maus",
-        "plural": "Mäuse",
-        "meaning": "Mouse",
-        "sentence": "Die Katze jagt die Maus."
-    },
-    {
-        "category": "Animals",
         "article": "der",
         "singular": "Elefant",
         "plural": "Elefanten",
@@ -2610,14 +2594,6 @@
     {
         "category": "Animals",
         "article": "der",
-        "singular": "Fisch",
-        "plural": "Fische",
-        "meaning": "Fish",
-        "sentence": "Fische leben im Wasser."
-    },
-    {
-        "category": "Animals",
-        "article": "der",
         "singular": "Affe",
         "plural": "Affen",
         "meaning": "Monkey",
@@ -2654,14 +2630,6 @@
         "plural": "Uhrzeiten",
         "meaning": "Time of day",
         "sentence": "Wie ist die Uhrzeit?"
-    },
-    {
-        "category": "Time",
-        "article": "der",
-        "singular": "Morgen",
-        "plural": "Morgen",
-        "meaning": "Morning",
-        "sentence": "Der Morgen ist frisch."
     },
     {
         "category": "Time",
@@ -3360,14 +3328,6 @@
         "sentence": "Köln liegt im Westen."
     },
     {
-        "category": "Directions",
-        "article": "die",
-        "singular": "Seite",
-        "plural": "Seiten",
-        "meaning": "Side",
-        "sentence": "Auf der anderen Seite der Straße."
-    },
-    {
         "category": "Bathroom",
         "article": "die",
         "singular": "Seife",
@@ -3649,14 +3609,6 @@
     },
     {
         "category": "Drinks",
-        "article": "die",
-        "singular": "Milch",
-        "plural": "",
-        "meaning": "Milk",
-        "sentence": "Die Milch kommt in den Kaffee."
-    },
-    {
-        "category": "Drinks",
         "article": "das",
         "singular": "Mineralwasser",
         "plural": "",
@@ -3721,14 +3673,6 @@
     },
     {
         "category": "Living Room",
-        "article": "der",
-        "singular": "Teppich",
-        "plural": "Teppiche",
-        "meaning": "Rug / Carpet",
-        "sentence": "Der Teppich liegt auf dem Boden."
-    },
-    {
-        "category": "Living Room",
         "article": "die",
         "singular": "Fernbedienung",
         "plural": "Fernbedienungen",
@@ -3790,14 +3734,6 @@
         "plural": "Ecken",
         "meaning": "Corner",
         "sentence": "Die Bäckerei ist an der Ecke."
-    },
-    {
-        "category": "Traffic",
-        "article": "der",
-        "singular": "Unfall",
-        "plural": "Unfälle",
-        "meaning": "Accident",
-        "sentence": "Es gab einen Unfall auf der Straße."
     },
     {
         "category": "Sports",
@@ -5640,14 +5576,6 @@
         "sentence": "Mach bitte die Heizung an."
     },
     {
-        "category": "Housing",
-        "article": "der",
-        "singular": "Müll",
-        "plural": "",
-        "meaning": "Trash / Garbage",
-        "sentence": "Ich muss den Müll rausbringen."
-    },
-    {
         "category": "Transport",
         "article": "die",
         "singular": "Straßenbahn",
@@ -6217,14 +6145,6 @@
     },
     {
         "category": "Technology",
-        "article": "der",
-        "singular": "Bildschirm",
-        "plural": "Bildschirme",
-        "meaning": "Screen",
-        "sentence": "Der Bildschirm ist schwarz."
-    },
-    {
-        "category": "Technology",
         "article": "",
         "singular": "speichern",
         "plural": "",
@@ -6286,14 +6206,6 @@
         "plural": "",
         "meaning": "definitely / certainly",
         "sentence": "Das ist bestimmt richtig."
-    },
-    {
-        "category": "Adverbs",
-        "article": "",
-        "singular": "gleich",
-        "plural": "",
-        "meaning": "shortly / same / equal",
-        "sentence": "Ich komme gleich."
     },
     {
         "category": "Adverbs",
@@ -6665,14 +6577,6 @@
     },
     {
         "category": "Health",
-        "article": "der",
-        "singular": "Husten",
-        "plural": "",
-        "meaning": "Cough",
-        "sentence": "Ich nehme Saft gegen Husten."
-    },
-    {
-        "category": "Health",
         "article": "",
         "singular": "bluten",
         "plural": "",
@@ -6790,14 +6694,6 @@
         "plural": "",
         "meaning": "to notice",
         "sentence": "Hast du das bemerkt?"
-    },
-    {
-        "category": "Verbs",
-        "article": "",
-        "singular": "erklären",
-        "plural": "",
-        "meaning": "to explain",
-        "sentence": "Kannst du mir das erklären?"
     },
     {
         "category": "Verbs",
@@ -6937,14 +6833,6 @@
     },
     {
         "category": "Kitchen",
-        "article": "das",
-        "singular": "Rezept",
-        "plural": "Rezepte",
-        "meaning": "Recipe",
-        "sentence": "Ich koche nach Rezept."
-    },
-    {
-        "category": "Kitchen",
         "article": "die",
         "singular": "Zutat",
         "plural": "Zutaten",
@@ -6966,14 +6854,6 @@
         "plural": "Baustellen",
         "meaning": "Construction site",
         "sentence": "Hier ist eine große Baustelle."
-    },
-    {
-        "category": "Adjectives",
-        "article": "",
-        "singular": "gemütlich",
-        "plural": "",
-        "meaning": "cozy",
-        "sentence": "Die Wohnung ist sehr gemütlich."
     },
     {
         "category": "Adjectives",
@@ -7074,14 +6954,6 @@
     {
         "category": "Groceries",
         "article": "der",
-        "singular": "Honig",
-        "plural": "Honige",
-        "meaning": "Honey",
-        "sentence": "Der Tee ist süß durch den Honig."
-    },
-    {
-        "category": "Groceries",
-        "article": "der",
         "singular": "Joghurt",
         "plural": "Joghurts",
         "meaning": "Yogurt",
@@ -7129,14 +7001,6 @@
     },
     {
         "category": "Groceries",
-        "article": "die",
-        "singular": "Sahne",
-        "plural": "",
-        "meaning": "Cream",
-        "sentence": "Ich möchte bitte Sahne zum Kaffee."
-    },
-    {
-        "category": "Groceries",
         "article": "der",
         "singular": "Quark",
         "plural": "",
@@ -7161,14 +7025,6 @@
     },
     {
         "category": "Groceries",
-        "article": "das",
-        "singular": "Mehl",
-        "plural": "Mehle",
-        "meaning": "Flour",
-        "sentence": "Wir brauchen Mehl für den Kuchen."
-    },
-    {
-        "category": "Groceries",
         "article": "die",
         "singular": "Nuss",
         "plural": "Nüsse",
@@ -7182,14 +7038,6 @@
         "plural": "Autobahnen",
         "meaning": "Highway / Freeway",
         "sentence": "Auf der Autobahn fahren wir schnell."
-    },
-    {
-        "category": "Car & Driving",
-        "article": "die",
-        "singular": "Tankstelle",
-        "plural": "Tankstellen",
-        "meaning": "Gas station",
-        "sentence": "Wir müssen zur Tankstelle."
     },
     {
         "category": "Car & Driving",
@@ -7258,14 +7106,6 @@
     {
         "category": "Office Supplies",
         "article": "der",
-        "singular": "Ordner",
-        "plural": "Ordner",
-        "meaning": "File binder / Folder",
-        "sentence": "Das Dokument ist im Ordner."
-    },
-    {
-        "category": "Office Supplies",
-        "article": "der",
         "singular": "Locher",
         "plural": "Locher",
         "meaning": "Hole punch",
@@ -7296,60 +7136,12 @@
         "sentence": "Ich schreibe alles in mein Notizbuch."
     },
     {
-        "category": "Office Supplies",
-        "article": "der",
-        "singular": "Kalender",
-        "plural": "Kalender",
-        "meaning": "Calendar",
-        "sentence": "Der Termin steht im Kalender."
-    },
-    {
-        "category": "Office Supplies",
-        "article": "die",
-        "singular": "Schere",
-        "plural": "Scheren",
-        "meaning": "Scissors",
-        "sentence": "Die Schere ist in der Schublade."
-    },
-    {
-        "category": "Office Supplies",
-        "article": "der",
-        "singular": "Radiergummi",
-        "plural": "Radiergummis",
-        "meaning": "Eraser",
-        "sentence": "Ich radiere den Fehler mit dem Radiergummi."
-    },
-    {
-        "category": "Office Supplies",
-        "article": "das",
-        "singular": "Lineal",
-        "plural": "Lineale",
-        "meaning": "Ruler",
-        "sentence": "Das Lineal ist 30 Zentimeter lang."
-    },
-    {
-        "category": "Office Supplies",
-        "article": "der",
-        "singular": "Klebstoff",
-        "plural": "Klebstoffe",
-        "meaning": "Glue",
-        "sentence": "Der Klebstoff hält gut."
-    },
-    {
         "category": "Home",
         "article": "der",
         "singular": "Flur",
         "plural": "Flure",
         "meaning": "Hallway / Corridor",
         "sentence": "Die Schuhe stehen im Flur."
-    },
-    {
-        "category": "Home",
-        "article": "der",
-        "singular": "Balkon",
-        "plural": "Balkone",
-        "meaning": "Balcony",
-        "sentence": "Wir sitzen auf dem Balkon."
     },
     {
         "category": "Home",
@@ -7366,22 +7158,6 @@
         "plural": "Dachböden",
         "meaning": "Attic / Loft",
         "sentence": "Die alten Kisten sind auf dem Dachboden."
-    },
-    {
-        "category": "Home",
-        "article": "der",
-        "singular": "Garten",
-        "plural": "Gärten",
-        "meaning": "Garden",
-        "sentence": "Wir arbeiten im Garten."
-    },
-    {
-        "category": "Home",
-        "article": "das",
-        "singular": "Tor",
-        "plural": "Tore",
-        "meaning": "Gate",
-        "sentence": "Das Tor ist geschlossen."
     },
     {
         "category": "Home",
@@ -7552,14 +7328,6 @@
         "sentence": "Die Wäsche ist trocken."
     },
     {
-        "category": "Adjectives",
-        "article": "",
-        "singular": "nass",
-        "plural": "",
-        "meaning": "wet",
-        "sentence": "Meine Haare sind noch nass."
-    },
-    {
         "category": "Time",
         "article": "",
         "singular": "vorgestern",
@@ -7582,14 +7350,6 @@
         "plural": "",
         "meaning": "back then / at that time",
         "sentence": "Damals gab es kein Internet."
-    },
-    {
-        "category": "Time",
-        "article": "",
-        "singular": "sofort",
-        "plural": "",
-        "meaning": "immediately",
-        "sentence": "Komm bitte sofort."
     },
     {
         "category": "Time",
@@ -7712,14 +7472,6 @@
         "sentence": "Ich möchte ein Eis essen."
     },
     {
-        "category": "Nature",
-        "article": "der",
-        "singular": "Nebel",
-        "plural": "",
-        "meaning": "Fog",
-        "sentence": "Man sieht nichts vor lauter Nebel."
-    },
-    {
         "category": "Family",
         "article": "der",
         "singular": "Onkel",
@@ -7806,14 +7558,6 @@
         "plural": "Ehemänner",
         "meaning": "Husband",
         "sentence": "Ihr Ehemann arbeitet viel."
-    },
-    {
-        "category": "Body",
-        "article": "der",
-        "singular": "Arm",
-        "plural": "Arme",
-        "meaning": "Arm",
-        "sentence": "Mein Arm tut weh."
     },
     {
         "category": "Body",
@@ -7906,22 +7650,6 @@
     {
         "category": "Routine",
         "article": "",
-        "singular": "aufwachen",
-        "plural": "",
-        "meaning": "to wake up",
-        "sentence": "Ich wache um 7 Uhr auf."
-    },
-    {
-        "category": "Routine",
-        "article": "",
-        "singular": "aufstehen",
-        "plural": "",
-        "meaning": "to get up",
-        "sentence": "Am Sonntag stehe ich spät auf."
-    },
-    {
-        "category": "Routine",
-        "article": "",
         "singular": "Zähne putzen",
         "plural": "",
         "meaning": "to brush teeth",
@@ -7938,26 +7666,10 @@
     {
         "category": "Routine",
         "article": "",
-        "singular": "frühstücken",
-        "plural": "",
-        "meaning": "to eat breakfast",
-        "sentence": "Wir frühstücken in der Küche."
-    },
-    {
-        "category": "Routine",
-        "article": "",
         "singular": "verlassen",
         "plural": "",
         "meaning": "to leave",
         "sentence": "Ich verlasse das Haus um 8 Uhr."
-    },
-    {
-        "category": "Routine",
-        "article": "",
-        "singular": "fernsehen",
-        "plural": "",
-        "meaning": "to watch TV",
-        "sentence": "Abends sehen wir fern."
     },
     {
         "category": "Routine",
@@ -7985,14 +7697,6 @@
     },
     {
         "category": "Study/Work",
-        "article": "die",
-        "singular": "Bibliothek",
-        "plural": "Bibliotheken",
-        "meaning": "Library",
-        "sentence": "In der Bibliothek ist es ruhig."
-    },
-    {
-        "category": "Study/Work",
         "article": "der",
         "singular": "Vortrag",
         "plural": "Vorträge",
@@ -8001,35 +7705,11 @@
     },
     {
         "category": "Study/Work",
-        "article": "die",
-        "singular": "Prüfung",
-        "plural": "Prüfungen",
-        "meaning": "Exam",
-        "sentence": "Ich habe morgen eine Prüfung."
-    },
-    {
-        "category": "Study/Work",
         "article": "das",
         "singular": "Ergebnis",
         "plural": "Ergebnisse",
         "meaning": "Result",
         "sentence": "Das Ergebnis ist positiv."
-    },
-    {
-        "category": "Study/Work",
-        "article": "der",
-        "singular": "Fehler",
-        "plural": "Fehler",
-        "meaning": "Mistake",
-        "sentence": "Aus Fehlern lernt man."
-    },
-    {
-        "category": "Study/Work",
-        "article": "das",
-        "singular": "Zeugnis",
-        "plural": "Zeugnisse",
-        "meaning": "Certificate / Report Card",
-        "sentence": "Ich brauche mein Zeugnis."
     },
     {
         "category": "Study/Work",
@@ -8048,46 +7728,6 @@
         "sentence": "Ich schreibe eine Bewerbung."
     },
     {
-        "category": "Household",
-        "article": "der",
-        "singular": "Staubsauger",
-        "plural": "Staubsauger",
-        "meaning": "Vacuum cleaner",
-        "sentence": "Der Staubsauger ist laut."
-    },
-    {
-        "category": "Household",
-        "article": "das",
-        "singular": "Bügeleisen",
-        "plural": "Bügeleisen",
-        "meaning": "Iron",
-        "sentence": "Das Bügeleisen ist heiß."
-    },
-    {
-        "category": "Household",
-        "article": "die",
-        "singular": "Wäsche",
-        "plural": "",
-        "meaning": "Laundry",
-        "sentence": "Ich muss die Wäsche waschen."
-    },
-    {
-        "category": "Household",
-        "article": "der",
-        "singular": "Mülleimer",
-        "plural": "Mülleimer",
-        "meaning": "Trash can",
-        "sentence": "Der Mülleimer ist voll."
-    },
-    {
-        "category": "Household",
-        "article": "die",
-        "singular": "Kerze",
-        "plural": "Kerzen",
-        "meaning": "Candle",
-        "sentence": "Zünde die Kerze an."
-    },
-    {
         "category": "Adjectives (Personality)",
         "article": "",
         "singular": "ernst",
@@ -8102,14 +7742,6 @@
         "plural": "",
         "meaning": "funny",
         "sentence": "Der Film ist sehr lustig."
-    },
-    {
-        "category": "Adjectives (Personality)",
-        "article": "",
-        "singular": "freundlich",
-        "plural": "",
-        "meaning": "friendly",
-        "sentence": "Die Verkäuferin ist freundlich."
     },
     {
         "category": "Adjectives (Personality)",
@@ -8150,22 +7782,6 @@
         "plural": "",
         "meaning": "shy",
         "sentence": "Das Kind ist schüchtern."
-    },
-    {
-        "category": "Adjectives (Personality)",
-        "article": "",
-        "singular": "fleißig",
-        "plural": "",
-        "meaning": "diligent / hard-working",
-        "sentence": "Sie ist eine fleißige Studentin."
-    },
-    {
-        "category": "Adjectives (Personality)",
-        "article": "",
-        "singular": "faul",
-        "plural": "",
-        "meaning": "lazy",
-        "sentence": "Am Sonntag bin ich faul."
     },
     {
         "category": "City",
@@ -8210,122 +7826,10 @@
     {
         "category": "Verbs (Thinking)",
         "article": "",
-        "singular": "denken",
-        "plural": "",
-        "meaning": "to think",
-        "sentence": "Ich denke an dich."
-    },
-    {
-        "category": "Verbs (Thinking)",
-        "article": "",
-        "singular": "glauben",
-        "plural": "",
-        "meaning": "to believe",
-        "sentence": "Ich glaube, es wird regnen."
-    },
-    {
-        "category": "Verbs (Thinking)",
-        "article": "",
-        "singular": "wissen",
-        "plural": "",
-        "meaning": "to know (a fact)",
-        "sentence": "Ich weiß die Antwort nicht."
-    },
-    {
-        "category": "Verbs (Thinking)",
-        "article": "",
-        "singular": "kennen",
-        "plural": "",
-        "meaning": "to know (a person/place)",
-        "sentence": "Ich kenne diese Stadt."
-    },
-    {
-        "category": "Verbs (Thinking)",
-        "article": "",
-        "singular": "vergessen",
-        "plural": "",
-        "meaning": "to forget",
-        "sentence": "Vergiss deinen Schlüssel nicht."
-    },
-    {
-        "category": "Verbs (Thinking)",
-        "article": "",
-        "singular": "erinnern",
-        "plural": "",
-        "meaning": "to remember",
-        "sentence": "Ich erinnere mich an den Urlaub."
-    },
-    {
-        "category": "Verbs (Thinking)",
-        "article": "",
-        "singular": "verstehen",
-        "plural": "",
-        "meaning": "to understand",
-        "sentence": "Verstehen Sie Deutsch?"
-    },
-    {
-        "category": "Verbs (Thinking)",
-        "article": "",
         "singular": "planen",
         "plural": "",
         "meaning": "to plan",
         "sentence": "Wir planen eine Reise."
-    },
-    {
-        "category": "Verbs (Thinking)",
-        "article": "",
-        "singular": "entscheiden",
-        "plural": "",
-        "meaning": "to decide",
-        "sentence": "Du musst dich entscheiden."
-    },
-    {
-        "category": "Verbs (Thinking)",
-        "article": "",
-        "singular": "hoffen",
-        "plural": "",
-        "meaning": "to hope",
-        "sentence": "Ich hoffe, du kommst."
-    },
-    {
-        "category": "Technology",
-        "article": "der",
-        "singular": "Bildschirm",
-        "plural": "Bildschirme",
-        "meaning": "Screen",
-        "sentence": "Der Bildschirm ist schwarz."
-    },
-    {
-        "category": "Technology",
-        "article": "die",
-        "singular": "Tastatur",
-        "plural": "Tastaturen",
-        "meaning": "Keyboard",
-        "sentence": "Ich tippe auf der Tastatur."
-    },
-    {
-        "category": "Technology",
-        "article": "die",
-        "singular": "Maus",
-        "plural": "Mäuse",
-        "meaning": "Computer mouse",
-        "sentence": "Klick mit der Maus."
-    },
-    {
-        "category": "Technology",
-        "article": "das",
-        "singular": "Ladegerät",
-        "plural": "Ladegeräte",
-        "meaning": "Charger",
-        "sentence": "Wo ist mein Ladegerät?"
-    },
-    {
-        "category": "Technology",
-        "article": "der",
-        "singular": "Kopfhörer",
-        "plural": "Kopfhörer",
-        "meaning": "Headphones",
-        "sentence": "Ich höre Musik mit Kopfhörern."
     },
     {
         "category": "Time",
@@ -8334,22 +7838,6 @@
         "plural": "Vormittage",
         "meaning": "Morning (before noon)",
         "sentence": "Am Vormittag bin ich im Büro."
-    },
-    {
-        "category": "Time",
-        "article": "der",
-        "singular": "Nachmittag",
-        "plural": "Nachmittage",
-        "meaning": "Afternoon",
-        "sentence": "Wir treffen uns am Nachmittag."
-    },
-    {
-        "category": "Time",
-        "article": "die",
-        "singular": "Mitternacht",
-        "plural": "",
-        "meaning": "Midnight",
-        "sentence": "Es ist schon Mitternacht."
     },
     {
         "category": "Time",
@@ -8377,35 +7865,11 @@
     },
     {
         "category": "Celebration",
-        "article": "das",
-        "singular": "Geschenk",
-        "plural": "Geschenke",
-        "meaning": "Gift",
-        "sentence": "Ich habe ein Geschenk für dich."
-    },
-    {
-        "category": "Celebration",
         "article": "die",
         "singular": "Party",
         "plural": "Partys",
         "meaning": "Party",
         "sentence": "Die Party macht Spaß."
-    },
-    {
-        "category": "Celebration",
-        "article": "die",
-        "singular": "Einladung",
-        "plural": "Einladungen",
-        "meaning": "Invitation",
-        "sentence": "Danke für die Einladung."
-    },
-    {
-        "category": "Celebration",
-        "article": "der",
-        "singular": "Gast",
-        "plural": "Gäste",
-        "meaning": "Guest",
-        "sentence": "Wir haben heute Gäste."
     },
     {
         "category": "Food (Fresh)",
@@ -8530,14 +7994,6 @@
     {
         "category": "Work & Career",
         "article": "die",
-        "singular": "Abteilung",
-        "plural": "Abteilungen",
-        "meaning": "Department",
-        "sentence": "Ich arbeite in der IT-Abteilung."
-    },
-    {
-        "category": "Work & Career",
-        "article": "die",
         "singular": "Besprechung",
         "plural": "Besprechungen",
         "meaning": "Meeting",
@@ -8558,14 +8014,6 @@
         "plural": "Praktikanten",
         "meaning": "Intern",
         "sentence": "Der Praktikant lernt schnell."
-    },
-    {
-        "category": "Work & Career",
-        "article": "die",
-        "singular": "Erfahrung",
-        "plural": "Erfahrungen",
-        "meaning": "Experience",
-        "sentence": "Ich habe viel Erfahrung in diesem Bereich."
     },
     {
         "category": "Travel & Visa",
@@ -8654,14 +8102,6 @@
         "plural": "Glühbirnen",
         "meaning": "Lightbulb",
         "sentence": "Die Glühbirne ist kaputt."
-    },
-    {
-        "category": "House & Items",
-        "article": "die",
-        "singular": "Steckdose",
-        "plural": "Steckdosen",
-        "meaning": "Socket / Outlet",
-        "sentence": "Wo ist eine Steckdose für mein Handy?"
     },
     {
         "category": "House & Items",
@@ -9001,14 +8441,6 @@
     },
     {
         "category": "Nature",
-        "article": "der",
-        "singular": "Stein",
-        "plural": "Steine",
-        "meaning": "Stone",
-        "sentence": "Der Weg ist voller Steine."
-    },
-    {
-        "category": "Nature",
         "article": "das",
         "singular": "Gras",
         "plural": "",
@@ -9030,38 +8462,6 @@
         "plural": "Pflanzen",
         "meaning": "Plant",
         "sentence": "Ich gieße die Pflanze."
-    },
-    {
-        "category": "Environment",
-        "article": "der",
-        "singular": "Müll",
-        "plural": "",
-        "meaning": "Trash / Waste",
-        "sentence": "Wir müssen den Müll trennen."
-    },
-    {
-        "category": "Environment",
-        "article": "das",
-        "singular": "Plastik",
-        "plural": "",
-        "meaning": "Plastic",
-        "sentence": "Plastik gehört in die gelbe Tonne."
-    },
-    {
-        "category": "Environment",
-        "article": "das",
-        "singular": "Papier",
-        "plural": "Papiere",
-        "meaning": "Paper",
-        "sentence": "Papier kommt in die blaue Tonne."
-    },
-    {
-        "category": "Environment",
-        "article": "das",
-        "singular": "Glas",
-        "plural": "Gläser",
-        "meaning": "Glass",
-        "sentence": "Wir bringen das Glas zum Container."
     },
     {
         "category": "Environment",
@@ -9105,38 +8505,6 @@
     },
     {
         "category": "Apartment",
-        "article": "die",
-        "singular": "Heizung",
-        "plural": "Heizungen",
-        "meaning": "Heater / Heating",
-        "sentence": "Im Winter läuft die Heizung."
-    },
-    {
-        "category": "Apartment",
-        "article": "der",
-        "singular": "Keller",
-        "plural": "Keller",
-        "meaning": "Cellar / Basement",
-        "sentence": "Das Fahrrad steht im Keller."
-    },
-    {
-        "category": "Apartment",
-        "article": "der",
-        "singular": "Flur",
-        "plural": "Flure",
-        "meaning": "Hallway",
-        "sentence": "Die Schuhe stehen im Flur."
-    },
-    {
-        "category": "Apartment",
-        "article": "der",
-        "singular": "Aufzug",
-        "plural": "Aufzüge",
-        "meaning": "Elevator",
-        "sentence": "Der Aufzug ist kaputt."
-    },
-    {
-        "category": "Apartment",
         "article": "das",
         "singular": "Erdgeschoss",
         "plural": "",
@@ -9150,14 +8518,6 @@
         "plural": "Stockwerke",
         "meaning": "Floor / Story",
         "sentence": "Sie wohnt im ersten Stock."
-    },
-    {
-        "category": "Apartment",
-        "article": "der",
-        "singular": "Umzug",
-        "plural": "Umzüge",
-        "meaning": "Move (relocation)",
-        "sentence": "Der Umzug war anstrengend."
     },
     {
         "category": "Administrative",
@@ -9193,22 +8553,6 @@
     },
     {
         "category": "Administrative",
-        "article": "der",
-        "singular": "Stempel",
-        "plural": "Stempel",
-        "meaning": "Stamp (Ink)",
-        "sentence": "Das Dokument braucht einen Stempel."
-    },
-    {
-        "category": "Administrative",
-        "article": "die",
-        "singular": "Unterschrift",
-        "plural": "Unterschriften",
-        "meaning": "Signature",
-        "sentence": "Hier fehlt Ihre Unterschrift."
-    },
-    {
-        "category": "Administrative",
         "article": "die",
         "singular": "Unterlagen",
         "plural": "",
@@ -9225,14 +8569,6 @@
     },
     {
         "category": "University",
-        "article": "die",
-        "singular": "Bibliothek",
-        "plural": "Bibliotheken",
-        "meaning": "Library",
-        "sentence": "Ich lerne in der Bibliothek."
-    },
-    {
-        "category": "University",
         "article": "das",
         "singular": "Studium",
         "plural": "Studien",
@@ -9241,27 +8577,11 @@
     },
     {
         "category": "University",
-        "article": "die",
-        "singular": "Vorlesung",
-        "plural": "Vorlesungen",
-        "meaning": "Lecture",
-        "sentence": "Die Vorlesung beginnt um 8 Uhr."
-    },
-    {
-        "category": "University",
         "article": "der",
         "singular": "Dozent",
         "plural": "Dozenten",
         "meaning": "Lecturer",
         "sentence": "Der Dozent erklärt das Thema gut."
-    },
-    {
-        "category": "University",
-        "article": "das",
-        "singular": "Semester",
-        "plural": "Semester",
-        "meaning": "Semester",
-        "sentence": "Das ist mein letztes Semester."
     },
     {
         "category": "University",
@@ -9304,14 +8624,6 @@
         "sentence": "Wo ist die Umkleidekabine?"
     },
     {
-        "category": "Shopping",
-        "article": "die",
-        "singular": "Größe",
-        "plural": "Größen",
-        "meaning": "Size",
-        "sentence": "Haben Sie das in Größe M?"
-    },
-    {
         "category": "Time",
         "article": "der",
         "singular": "Zeitraum",
@@ -9334,14 +8646,6 @@
         "plural": "",
         "meaning": "Present (time)",
         "sentence": "Wir leben in der Gegenwart."
-    },
-    {
-        "category": "Time",
-        "article": "die",
-        "singular": "Dauer",
-        "plural": "",
-        "meaning": "Duration",
-        "sentence": "Die Dauer der Prüfung ist 90 Minuten."
     },
     {
         "category": "Abstract",
@@ -9406,22 +8710,6 @@
         "plural": "Portemonnaies",
         "meaning": "Wallet",
         "sentence": "Mein Geld ist im Portemonnaie."
-    },
-    {
-        "category": "Objects",
-        "article": "das",
-        "singular": "Taschentuch",
-        "plural": "Taschentücher",
-        "meaning": "Tissue / Handkerchief",
-        "sentence": "Hast du ein Taschentuch?"
-    },
-    {
-        "category": "Objects",
-        "article": "das",
-        "singular": "Feuerzeug",
-        "plural": "Feuerzeuge",
-        "meaning": "Lighter",
-        "sentence": "Ich habe kein Feuerzeug."
     },
     {
         "category": "Verbs",
@@ -9624,30 +8912,6 @@
         "sentence": "Die Mücke hat mich gestochen."
     },
     {
-        "category": "Body",
-        "article": "das",
-        "singular": "Blut",
-        "plural": "",
-        "meaning": "Blood",
-        "sentence": "Blut ist rot."
-    },
-    {
-        "category": "Body",
-        "article": "der",
-        "singular": "Knochen",
-        "plural": "Knochen",
-        "meaning": "Bone",
-        "sentence": "Der Hund kaut einen Knochen."
-    },
-    {
-        "category": "Body",
-        "article": "die",
-        "singular": "Haut",
-        "plural": "",
-        "meaning": "Skin",
-        "sentence": "Meine Haut ist trocken."
-    },
-    {
         "category": "Clothing",
         "article": "der",
         "singular": "Stiefel",
@@ -9694,14 +8958,6 @@
         "plural": "Bohnen",
         "meaning": "Bean",
         "sentence": "Bohnen sind gesund."
-    },
-    {
-        "category": "Food",
-        "article": "der",
-        "singular": "Knoblauch",
-        "plural": "",
-        "meaning": "Garlic",
-        "sentence": "Das Essen hat viel Knoblauch."
     },
     {
         "category": "Banking",
@@ -9808,14 +9064,6 @@
         "sentence": "Darf ich hier parken?"
     },
     {
-        "category": "Grammar (Modals)",
-        "article": "",
-        "singular": "mögen",
-        "plural": "",
-        "meaning": "to like",
-        "sentence": "Ich mag Pizza."
-    },
-    {
         "category": "Grammar (Pronouns)",
         "article": "",
         "singular": "jemand",
@@ -9862,70 +9110,6 @@
         "plural": "",
         "meaning": "everyone / each",
         "sentence": "Jeder kennt ihn."
-    },
-    {
-        "category": "Family",
-        "article": "der",
-        "singular": "Onkel",
-        "plural": "Onkel",
-        "meaning": "Uncle",
-        "sentence": "Mein Onkel wohnt in Berlin."
-    },
-    {
-        "category": "Family",
-        "article": "die",
-        "singular": "Tante",
-        "plural": "Tanten",
-        "meaning": "Aunt",
-        "sentence": "Meine Tante kommt zu Besuch."
-    },
-    {
-        "category": "Family",
-        "article": "der",
-        "singular": "Cousin",
-        "plural": "Cousins",
-        "meaning": "Cousin (male)",
-        "sentence": "Ich spiele mit meinem Cousin."
-    },
-    {
-        "category": "Family",
-        "article": "die",
-        "singular": "Cousine",
-        "plural": "Cousinen",
-        "meaning": "Cousin (female)",
-        "sentence": "Meine Cousine ist sehr nett."
-    },
-    {
-        "category": "Family",
-        "article": "der",
-        "singular": "Neffe",
-        "plural": "Neffen",
-        "meaning": "Nephew",
-        "sentence": "Mein Neffe geht zur Schule."
-    },
-    {
-        "category": "Family",
-        "article": "die",
-        "singular": "Nichte",
-        "plural": "Nichten",
-        "meaning": "Niece",
-        "sentence": "Ich habe eine kleine Nichte."
-    },
-    {
-        "category": "Family",
-        "article": "der",
-        "singular": "Enkel",
-        "plural": "Enkel",
-        "meaning": "Grandson",
-        "sentence": "Oma liebt ihren Enkel."
-    },
-    {
-        "category": "Family",
-        "article": "die",
-        "singular": "Enkelin",
-        "plural": "Enkelinnen",
-        "meaning": "Granddaughter",
-        "sentence": "Die Enkelin besucht den Opa."
     },
     {
         "category": "Family",
@@ -10210,14 +9394,6 @@
     {
         "category": "Verbs",
         "article": "",
-        "singular": "malen",
-        "plural": "",
-        "meaning": "to paint",
-        "sentence": "Das Kind malt ein Bild."
-    },
-    {
-        "category": "Verbs",
-        "article": "",
         "singular": "zeichnen",
         "plural": "",
         "meaning": "to draw",
@@ -10353,14 +9529,6 @@
     },
     {
         "category": "Emotions",
-        "article": "der",
-        "singular": "Stolz",
-        "plural": "",
-        "meaning": "Pride",
-        "sentence": "Er ist voller Stolz."
-    },
-    {
-        "category": "Emotions",
         "article": "die",
         "singular": "Wut",
         "plural": "",
@@ -10430,22 +9598,6 @@
         "plural": "",
         "meaning": "until",
         "sentence": "Ich warte bis morgen."
-    },
-    {
-        "category": "Grammar (Prepositions)",
-        "article": "",
-        "singular": "seit",
-        "plural": "",
-        "meaning": "since / for (time)",
-        "sentence": "Ich wohne seit einem Jahr hier."
-    },
-    {
-        "category": "Grammar (Prepositions)",
-        "article": "",
-        "singular": "aus",
-        "plural": "",
-        "meaning": "out of / from",
-        "sentence": "Er kommt aus dem Haus."
     },
     {
         "category": "Kitchen Tools",
@@ -11146,14 +10298,6 @@
     {
         "category": "Verbs (Perception)",
         "article": "",
-        "singular": "vertrauen",
-        "plural": "",
-        "meaning": "to trust",
-        "sentence": "Du kannst mir vertrauen."
-    },
-    {
-        "category": "Verbs (Perception)",
-        "article": "",
         "singular": "zweifeln",
         "plural": "",
         "meaning": "to doubt",
@@ -11225,14 +10369,6 @@
     },
     {
         "category": "Objects",
-        "article": "das",
-        "singular": "Schloss",
-        "plural": "Schlösser",
-        "meaning": "Lock",
-        "sentence": "Das Fahrrad hat ein Schloss."
-    },
-    {
-        "category": "Objects",
         "article": "der",
         "singular": "Türgriff",
         "plural": "Türgriffe",
@@ -11250,14 +10386,6 @@
     {
         "category": "Positional Verbs",
         "article": "",
-        "singular": "liegen",
-        "plural": "",
-        "meaning": "to lie (be lying down)",
-        "sentence": "Das Buch liegt auf dem Tisch."
-    },
-    {
-        "category": "Positional Verbs",
-        "article": "",
         "singular": "legen",
         "plural": "",
         "meaning": "to lay (put something down)",
@@ -11266,34 +10394,10 @@
     {
         "category": "Positional Verbs",
         "article": "",
-        "singular": "stehen",
-        "plural": "",
-        "meaning": "to stand (be standing)",
-        "sentence": "Die Flasche steht im Regal."
-    },
-    {
-        "category": "Positional Verbs",
-        "article": "",
-        "singular": "stellen",
-        "plural": "",
-        "meaning": "to place (stand something up)",
-        "sentence": "Ich stelle die Flasche ins Regal."
-    },
-    {
-        "category": "Positional Verbs",
-        "article": "",
         "singular": "sitzen",
         "plural": "",
         "meaning": "to sit (be sitting)",
         "sentence": "Der Mann sitzt auf dem Stuhl."
-    },
-    {
-        "category": "Positional Verbs",
-        "article": "",
-        "singular": "setzen",
-        "plural": "",
-        "meaning": "to set / sit down",
-        "sentence": "Ich setze mich auf den Stuhl."
     },
     {
         "category": "Positional Verbs",
@@ -11353,27 +10457,11 @@
     },
     {
         "category": "Cleaning & Laundry",
-        "article": "der",
-        "singular": "Besen",
-        "plural": "Besen",
-        "meaning": "Broom",
-        "sentence": "Ich fege den Boden mit dem Besen."
-    },
-    {
-        "category": "Cleaning & Laundry",
         "article": "das",
         "singular": "Kehrblech",
         "plural": "Kehrbleche",
         "meaning": "Dustpan",
         "sentence": "Ich fege den Staub auf das Kehrblech."
-    },
-    {
-        "category": "Cleaning & Laundry",
-        "article": "der",
-        "singular": "Schwamm",
-        "plural": "Schwämme",
-        "meaning": "Sponge",
-        "sentence": "Der Schwamm ist nass."
     },
     {
         "category": "Car & Bike",
@@ -11406,14 +10494,6 @@
         "plural": "Hupen",
         "meaning": "Horn",
         "sentence": "Die Hupe ist sehr laut."
-    },
-    {
-        "category": "Car & Bike",
-        "article": "die",
-        "singular": "Bremse",
-        "plural": "Bremsen",
-        "meaning": "Brake",
-        "sentence": "Die Bremse funktioniert gut."
     },
     {
         "category": "Car & Bike",
@@ -11481,14 +10561,6 @@
     },
     {
         "category": "Computer & Office",
-        "article": "der",
-        "singular": "Link",
-        "plural": "Links",
-        "meaning": "Link / URL",
-        "sentence": "Ich schicke dir den Link."
-    },
-    {
-        "category": "Computer & Office",
         "article": "das",
         "singular": "Update",
         "plural": "Updates",
@@ -11502,14 +10574,6 @@
         "plural": "",
         "meaning": "to upload",
         "sentence": "Ich lade das Foto hoch."
-    },
-    {
-        "category": "Computer & Office",
-        "article": "",
-        "singular": "herunterladen",
-        "plural": "",
-        "meaning": "to download",
-        "sentence": "Du kannst die Datei herunterladen."
     },
     {
         "category": "Computer & Office",
@@ -11562,14 +10626,6 @@
     {
         "category": "Abstract Concepts",
         "article": "die",
-        "singular": "Gewohnheit",
-        "plural": "Gewohnheiten",
-        "meaning": "Habit",
-        "sentence": "Das ist eine alte Gewohnheit."
-    },
-    {
-        "category": "Abstract Concepts",
-        "article": "die",
         "singular": "Wirkung",
         "plural": "Wirkungen",
         "meaning": "Effect / Impact",
@@ -11598,14 +10654,6 @@
         "plural": "",
         "meaning": "difficult",
         "sentence": "Deutsch ist eine schwierige Sprache."
-    },
-    {
-        "category": "Adjectives",
-        "article": "",
-        "singular": "einfach",
-        "plural": "",
-        "meaning": "simple / easy",
-        "sentence": "Das Rezept ist einfach."
     },
     {
         "category": "Adjectives",
@@ -11680,22 +10728,6 @@
         "sentence": "Die Wurzeln des Baumes sind tief."
     },
     {
-        "category": "Nature (Specifics)",
-        "article": "der",
-        "singular": "Sand",
-        "plural": "",
-        "meaning": "Sand",
-        "sentence": "Der Sand ist heiß."
-    },
-    {
-        "category": "Nature (Specifics)",
-        "article": "der",
-        "singular": "Staub",
-        "plural": "",
-        "meaning": "Dust",
-        "sentence": "Überall liegt Staub."
-    },
-    {
         "category": "Daily Verbs",
         "article": "",
         "singular": "verschlafen",
@@ -11726,54 +10758,6 @@
         "plural": "",
         "meaning": "to disturb / bother",
         "sentence": "Bitte nicht stören!"
-    },
-    {
-        "category": "Daily Verbs",
-        "article": "",
-        "singular": "bemerken",
-        "plural": "",
-        "meaning": "to notice",
-        "sentence": "Ich habe das nicht bemerkt."
-    },
-    {
-        "category": "Daily Verbs",
-        "article": "",
-        "singular": "ausgeben",
-        "plural": "",
-        "meaning": "to spend (money)",
-        "sentence": "Ich gebe zu viel Geld aus."
-    },
-    {
-        "category": "Daily Verbs",
-        "article": "",
-        "singular": "sparen",
-        "plural": "",
-        "meaning": "to save (money)",
-        "sentence": "Ich spare für ein Auto."
-    },
-    {
-        "category": "Clothing Details",
-        "article": "der",
-        "singular": "Kragen",
-        "plural": "Kragen",
-        "meaning": "Collar",
-        "sentence": "Der Kragen ist weiß."
-    },
-    {
-        "category": "Clothing Details",
-        "article": "der",
-        "singular": "Ärmel",
-        "plural": "Ärmel",
-        "meaning": "Sleeve",
-        "sentence": "Die Ärmel sind zu lang."
-    },
-    {
-        "category": "Clothing Details",
-        "article": "der",
-        "singular": "Reißverschluss",
-        "plural": "Reißverschlüsse",
-        "meaning": "Zipper",
-        "sentence": "Der Reißverschluss klemmt."
     },
     {
         "category": "Clothing Details",
@@ -11814,14 +10798,6 @@
         "plural": "",
         "meaning": "nowhere",
         "sentence": "Ich finde meinen Schlüssel nirgends."
-    },
-    {
-        "category": "Adverbs of Place",
-        "article": "",
-        "singular": "überall",
-        "plural": "",
-        "meaning": "everywhere",
-        "sentence": "Es gibt überall gute Restaurants."
     },
     {
         "category": "Adverbs of Place",
@@ -11870,14 +10846,6 @@
         "plural": "",
         "meaning": "Violence / Force",
         "sentence": "Gewalt ist keine Lösung."
-    },
-    {
-        "category": "Bank & Money",
-        "article": "der",
-        "singular": "Geldautomat",
-        "plural": "Geldautomaten",
-        "meaning": "ATM",
-        "sentence": "Der Geldautomat ist außer Betrieb."
     },
     {
         "category": "Bank & Money",

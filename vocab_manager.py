@@ -6,13 +6,13 @@ import os
 # --- CONFIGURATION ---
 FILE_NAME = 'vocab.json'
 COLOR_BG = "#f0f0f0"
-COLOR_ACCENT = "#4a90e2" # Nice blue
+COLOR_ACCENT = "#4a90e2" 
 
 class VocabManager:
     def __init__(self, root):
         self.root = root
         self.root.title("📚 Vocabulary Manager")
-        self.root.geometry("600x500")
+        self.root.geometry("600x530") # Made slightly taller
         self.root.config(bg=COLOR_BG, padx=20, pady=20)
 
         # Load Data
@@ -21,24 +21,27 @@ class VocabManager:
 
         # --- LEFT SIDE: MANUAL ENTRY ---
         self.frame_manual = tk.LabelFrame(root, text="Add Single Word", bg=COLOR_BG, font=("Arial", 12, "bold"), padx=15, pady=15)
-        self.frame_manual.place(x=0, y=0, width=320, height=460)
+        self.frame_manual.place(x=0, y=0, width=320, height=490)
 
-        # Category Input (Combobox allows typing NEW items)
+        # 1. Category Input
         tk.Label(self.frame_manual, text="Category:", bg=COLOR_BG).pack(anchor="w")
         self.cat_var = tk.StringVar()
         self.cat_box = ttk.Combobox(self.frame_manual, textvariable=self.cat_var, values=self.categories)
         self.cat_box.pack(fill="x", pady=(0, 10))
 
-        # Inputs
-        tk.Label(self.frame_manual, text="Article (der/die/das):", bg=COLOR_BG).pack(anchor="w")
-        self.entry_article = tk.Entry(self.frame_manual)
-        self.entry_article.pack(fill="x", pady=(0, 10))
+        # 2. Article Input (UPDATED to Dropdown)
+        tk.Label(self.frame_manual, text="Article:", bg=COLOR_BG).pack(anchor="w")
+        self.art_var = tk.StringVar()
+        # "None" is for Verbs/Adjectives
+        self.art_box = ttk.Combobox(self.frame_manual, textvariable=self.art_var, values=["der", "die", "das", "None (Verb/Adj)"], state="readonly")
+        self.art_box.pack(fill="x", pady=(0, 10))
 
+        # 3. Word Details
         tk.Label(self.frame_manual, text="Singular Word:", bg=COLOR_BG).pack(anchor="w")
         self.entry_singular = tk.Entry(self.frame_manual)
         self.entry_singular.pack(fill="x", pady=(0, 10))
 
-        tk.Label(self.frame_manual, text="Plural Form:", bg=COLOR_BG).pack(anchor="w")
+        tk.Label(self.frame_manual, text="Plural Form (optional):", bg=COLOR_BG).pack(anchor="w")
         self.entry_plural = tk.Entry(self.frame_manual)
         self.entry_plural.pack(fill="x", pady=(0, 10))
 
@@ -57,7 +60,7 @@ class VocabManager:
 
         # --- RIGHT SIDE: BULK IMPORT ---
         self.frame_bulk = tk.LabelFrame(root, text="Bulk Import (from AI)", bg=COLOR_BG, font=("Arial", 12, "bold"), padx=15, pady=15)
-        self.frame_bulk.place(x=340, y=0, width=220, height=460)
+        self.frame_bulk.place(x=340, y=0, width=220, height=490)
 
         info_text = (
             "1. Ask Gemini for words\n"
@@ -87,7 +90,14 @@ class VocabManager:
     def save_word(self):
         # 1. Get Values
         cat = self.cat_var.get().strip().capitalize()
-        art = self.entry_article.get().strip().lower()
+        
+        # Article Logic: If "None (Verb/Adj)" is selected, save as empty string ""
+        raw_art = self.art_var.get()
+        if "None" in raw_art or raw_art == "":
+            art = ""
+        else:
+            art = raw_art.strip().lower()
+
         sing = self.entry_singular.get().strip()
         plu = self.entry_plural.get().strip()
         mean = self.entry_meaning.get().strip()
@@ -99,7 +109,6 @@ class VocabManager:
 
         if not cat: cat = "General"
 
-        # 2. Create Entry
         new_entry = {
             "category": cat,
             "article": art,
@@ -109,36 +118,30 @@ class VocabManager:
             "sentence": sent
         }
 
-        # 3. Save
         self.data.append(new_entry)
         self.save_to_file()
         
-        # 4. Clear Inputs
+        # Clear Inputs (Keep Category for speed)
         self.entry_singular.delete(0, 'end')
         self.entry_plural.delete(0, 'end')
         self.entry_meaning.delete(0, 'end')
         self.entry_sentence.delete(0, 'end')
-        # We keep Category and Article because you usually add similar words in a row
+        self.art_box.set('') # Reset article dropdown
         
         messagebox.showinfo("Success", f"Saved: {sing}")
         self.status_label.config(text=f"Total Words: {len(self.data)}")
 
     def import_from_clipboard(self):
         try:
-            # 1. Get Text from Clipboard
             content = self.root.clipboard_get()
-            
-            # 2. Try to parse as JSON
             new_items = json.loads(content)
             
             if not isinstance(new_items, list):
                 raise ValueError("Clipboard data is not a list!")
 
-            # 3. Add valid items
             count = 0
             for item in new_items:
                 if 'singular' in item and 'meaning' in item:
-                    # Default category if missing in JSON
                     if 'category' not in item:
                         item['category'] = 'Imported'
                     self.data.append(item)
@@ -149,7 +152,7 @@ class VocabManager:
             self.status_label.config(text=f"Total Words: {len(self.data)}")
             
         except json.JSONDecodeError:
-            messagebox.showerror("Error", "Clipboard does not contain valid JSON.\nMake sure you copied the code block correctly!")
+            messagebox.showerror("Error", "Clipboard does not contain valid JSON.\nCheck the code block!")
         except Exception as e:
             messagebox.showerror("Error", str(e))
 
